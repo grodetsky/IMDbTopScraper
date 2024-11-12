@@ -1,0 +1,1001 @@
+﻿Rank,Title,Year,Country,Genre,Director,Runtime (Minutes),Rating,Metascore,Budget (Millions),Revenue (Millions)
+1,The Shawshank Redemption,1994,United States,"Epic, Prison Drama, Drama",Frank Darabont,142,9.3,82,25.0,29.33
+2,The Godfather,1972,United States,"Epic, Gangster, Tragedy, Crime, Drama",Francis Ford Coppola,175,9.2,100,6.0,250.34
+3,The Dark Knight,2008,United States,"Action Epic, Epic, Superhero, Action, Crime, Drama, Thriller",Christopher Nolan,152,9.0,84,185.0,1009.05
+4,Schindler's List,1993,United States,"Docudrama, Epic, Historical Epic, Period Drama, Prison Drama, Biography, Drama, History",Steven Spielberg,195,9.0,95,22.0,322.16
+5,The Lord of the Rings: The Return of the King,2003,New Zealand,"Adventure Epic, Epic, Fantasy Epic, Mountain Adventure, Quest, Sword & Sorcery, Tragedy, Action, Adventure, Drama",Peter Jackson,201,9.0,94,94.0,1138.03
+6,12 Angry Men,1957,United States,"Legal Drama, Psychological Drama, Crime, Drama",Sidney Lumet,96,9.0,97,0.35,0.0
+7,The Godfather Part II,1974,United States,"Epic, Gangster, Tragedy, Crime, Drama",Francis Ford Coppola,202,9.0,90,13.0,47.96
+8,The Lord of the Rings: The Fellowship of the Ring,2001,New Zealand,"Adventure Epic, Epic, Fantasy Epic, Quest, Sword & Sorcery, Action, Adventure, Drama, Fantasy",Peter Jackson,178,8.9,92,93.0,888.12
+9,Pulp Fiction,1994,United States,"Dark Comedy, Drug Crime, Gangster, Crime, Drama",Quentin Tarantino,154,8.9,95,8.0,213.93
+10,Fight Club,1999,Germany,"Psychological Drama, Workplace Drama, Drama",David Fincher,139,8.8,67,63.0,101.32
+11,Inception,2010,United States,"Action Epic, Adventure Epic, Psychological Thriller, Sci-Fi Epic, Action, Adventure, Sci-Fi, Thriller",Christopher Nolan,148,8.8,74,160.0,839.03
+12,Forrest Gump,1994,United States,"Epic, Drama, Romance",Robert Zemeckis,142,8.8,82,55.0,678.23
+13,The Lord of the Rings: The Two Towers,2002,New Zealand,"Adventure Epic, Dark Fantasy, Epic, Fantasy Epic, Quest, Sword & Sorcery, Action, Adventure, Drama, Fantasy",Peter Jackson,179,8.8,87,94.0,938.21
+14,12th Fail,2023,India,"Docudrama, Biography, Drama",Vidhu Vinod Chopra,147,8.8,,,0.14
+15,"The Good, the Bad and the Ugly",1966,Italy,"Desert Adventure, Quest, Spaghetti Western, Western Epic, Adventure, Drama, Western",Sergio Leone,161,8.8,90,1.2,25.26
+16,Interstellar,2014,United States,"Adventure Epic, Epic, Quest, Sci-Fi Epic, Space Sci-Fi, Adventure, Drama, Sci-Fi",Christopher Nolan,169,8.7,74,165.0,730.96
+17,The Matrix,1999,United States,"Action Epic, Artificial Intelligence, Cyberpunk, Dystopian Sci-Fi, Gun Fu, Martial Arts, Sci-Fi Epic, Action, Sci-Fi","Lana Wachowski, Lilly Wachowski",136,8.7,73,63.0,467.84
+18,GoodFellas,1990,United States,"Docudrama, Gangster, True Crime, Biography, Crime, Drama",Martin Scorsese,145,8.7,92,25.0,47.05
+19,One Flew Over the Cuckoo's Nest,1975,United States,"Medical Drama, Psychological Drama, Drama",Milos Forman,133,8.7,84,3.0,109.12
+20,Star Wars: Episode V - The Empire Strikes Back,1980,United States,"Action Epic, Adventure Epic, Dark Fantasy, Fantasy Epic, Quest, Sci-Fi Epic, Space Sci-Fi, Sword & Sorcery, Action, Adventure",Irvin Kershner,124,8.7,82,18.0,550.02
+21,Jai Bhim,2021,India,"Legal Drama, Crime, Drama, Mystery",T.J. Gnanavel,164,8.7,,,
+22,Soorarai Pottru,2020,India,Drama,Sudha Kongara,153,8.7,,150.0,
+23,777 Charlie,2022,India,"Adventure, Comedy, Drama",Kiranraj K,164,8.7,,,7.52
+24,Rocketry: The Nambi Effect,2022,India,"Biography, Drama",Madhavan,157,8.7,,600.0,0.4
+25,The Silence of the Lambs,1991,United States,"Police Procedural, Psychological Drama, Psychological Thriller, Serial Killer, Crime, Drama, Thriller",Jonathan Demme,118,8.6,86,19.0,272.74
+26,Seven,1995,United States,"Cop Drama, Hard-boiled Detective, Legal Drama, Police Procedural, Psychological Thriller, Serial Killer, Crime, Drama, Mystery, Thriller",David Fincher,127,8.6,65,33.0,327.33
+27,Spider-Man: Across the Spider-Verse,2023,United States,"Computer Animation, Superhero, Supernatural Fantasy, Teen Adventure, Urban Adventure, Action, Adventure, Animation, Fantasy, Sci-Fi","Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",140,8.6,86,150.0,690.82
+28,The Green Mile,1999,United States,"Period Drama, Prison Drama, Supernatural Fantasy, Tragedy, Crime, Drama, Fantasy, Mystery",Frank Darabont,189,8.6,61,60.0,286.8
+29,City of God,2002,Brazil,"Coming-of-Age, Gangster, Crime, Drama","Fernando Meirelles, Kátia Lund",130,8.6,79,3.3,30.68
+30,Saving Private Ryan,1998,United States,"Epic, War Epic, Drama, War",Steven Spielberg,169,8.6,91,70.0,482.35
+31,Spirited Away,2001,Japan,"Anime, Coming-of-Age, Fairy Tale, Hand-Drawn Animation, Supernatural Fantasy, Adventure, Animation, Family, Fantasy, Mystery",Hayao Miyazaki,124,8.6,96,19.0,358.12
+32,Star Wars: Episode IV - A New Hope,1977,United States,"Action Epic, Adventure Epic, Fantasy Epic, Quest, Sci-Fi Epic, Space Sci-Fi, Sword & Sorcery, Action, Adventure, Fantasy",George Lucas,121,8.6,90,11.0,775.4
+33,Terminator 2: Judgment Day,1991,United States,"Action Epic, Artificial Intelligence, Cyberpunk, Dystopian Sci-Fi, Sci-Fi Epic, Time Travel, Action, Adventure, Sci-Fi",James Cameron,137,8.6,75,102.0,520.88
+34,Life Is Beautiful,1997,Italy,"Period Drama, Tragedy, Tragic Romance, Comedy, Drama, Romance, War",Roberto Benigni,116,8.6,58,20.0,230.1
+35,It's a Wonderful Life,1946,United States,"Feel-Good Romance, Holiday Family, Holiday Romance, Psychological Drama, Drama, Family, Fantasy, Holiday, Romance",Frank Capra,130,8.6,89,3.18,9.77
+36,Seven Samurai,1954,Japan,"Action Epic, Epic, Period Drama, Samurai, Action, Drama",Akira Kurosawa,207,8.6,98,125.0,1.05
+37,Harakiri,1962,Japan,"Period Drama, Samurai, Action, Drama, Mystery",Masaki Kobayashi,133,8.6,85,,0.02
+38,Gladiator,2000,United States,"Action Epic, Epic, Period Drama, Sword & Sandal, Action, Adventure, Drama",Ridley Scott,155,8.5,67,103.0,465.52
+39,Dune: Part Two,2024,United States,"Action Epic, Desert Adventure, Epic, Sci-Fi Epic, Space Sci-Fi, Action, Adventure, Drama, Sci-Fi",Denis Villeneuve,166,8.5,79,190.0,714.44
+40,Alien,1979,United Kingdom,"Cyberpunk, Monster Horror, Space Sci-Fi, Horror, Sci-Fi",Ridley Scott,117,8.5,89,11.0,108.61
+41,Psycho,1960,United States,"Psychological Horror, Psychological Thriller, Slasher Horror, Suspense Mystery, Horror, Mystery, Thriller",Alfred Hitchcock,109,8.5,97,0.81,32.07
+42,Leon,1994,France,"Gangster, One-Person Army Action, Action, Crime, Drama, Thriller",Luc Besson,110,8.5,64,16.0,20.28
+43,Parasite,2019,South Korea,"Dark Comedy, Psychological Thriller, Tragedy, Drama, Thriller",Bong Joon Ho,132,8.5,97,11.4,262.13
+44,Back to the Future,1985,United States,"High-Concept Comedy, Teen Adventure, Teen Comedy, Time Travel, Adventure, Comedy, Sci-Fi",Robert Zemeckis,116,8.5,87,19.0,384.58
+45,Django Unchained,2012,United States,"Dark Comedy, Period Drama, Western Epic, Comedy, Drama, Western",Quentin Tarantino,165,8.5,81,100.0,426.08
+46,Whiplash,2014,United States,"Psychological Drama, Drama, Music",Damien Chazelle,106,8.5,89,3.3,50.36
+47,The Prestige,2006,United Kingdom,"Period Drama, Steampunk, Tragedy, Drama, Mystery, Sci-Fi, Thriller",Christopher Nolan,130,8.5,66,40.0,109.68
+48,The Departed,2006,United States,"Cop Drama, Gangster, Crime, Drama, Thriller",Martin Scorsese,151,8.5,85,90.0,291.48
+49,The Usual Suspects,1995,United States,"Gangster, Heist, Psychological Drama, Psychological Thriller, Suspense Mystery, Whodunnit, Crime, Drama, Mystery, Thriller",Bryan Singer,106,8.5,76,6.0,23.34
+50,The Lion King,1994,United States,"Animal Adventure, Coming-of-Age, Hand-Drawn Animation, Jungle Adventure, Adventure, Animation, Drama, Family, Fantasy, Musical","Roger Allers, Rob Minkoff",88,8.5,88,45.0,981.71
+51,American History X,1998,United States,"Prison Drama, Tragedy, Crime, Drama",Tony Kaye,119,8.5,62,20.0,23.88
+52,Maharaja,2024,India,"Action, Crime, Drama, Thriller",Nithilan Saminathan,141,8.5,,,0.98
+53,Once Upon a Time in the West,1968,Italy,"Desert Adventure, Spaghetti Western, Western Epic, Drama, Western",Sergio Leone,166,8.5,82,5.0,5.44
+54,Grave of the Fireflies,1988,Japan,"Adult Animation, Anime, Hand-Drawn Animation, Period Drama, Animation, Drama, War",Isao Takahata,88,8.5,94,3.7,0.8
+55,The Pianist,2002,France,"Docudrama, Epic, Period Drama, Tragedy, War Epic, Biography, Drama, Music, War",Roman Polanski,150,8.5,85,35.0,120.1
+56,Untouchable,2011,France,"Docudrama, Comedy, Drama","Olivier Nakache, Éric Toledano",112,8.5,57,9.5,426.59
+57,Casablanca,1942,United States,"Drama, Romance, War",Michael Curtiz,102,8.5,100,0.95,4.72
+58,Rear Window,1954,United States,"Suspense Mystery, Mystery, Thriller",Alfred Hitchcock,112,8.5,100,1.0,37.04
+59,Cinema Paradiso,1988,Italy,"Coming-of-Age, Drama, Romance",Giuseppe Tornatore,174,8.5,80,5.0,13.02
+60,96,2018,India,"Drama, Romance",C. Prem Kumar,158,8.5,,,0.62
+61,Modern Times,1936,United States,"Slapstick, Comedy, Drama, Romance",Charles Chaplin,87,8.5,96,1.5,0.46
+62,City Lights,1931,United States,"Feel-Good Romance, Romantic Comedy, Slapstick, Comedy, Drama, Romance",Charles Chaplin,87,8.5,99,1.5,0.05
+63,Sita Ramam,2022,India,"Action, Drama, Mystery, Romance",Hanu Raghavapudi,163,8.5,,3.0,2.21
+64,The Shining,1980,United Kingdom,"Psychological Drama, Psychological Horror, Supernatural Horror, Drama, Horror",Stanley Kubrick,146,8.4,68,19.0,47.96
+65,Joker,2019,United States,"Psychological Drama, Psychological Thriller, Tragedy, Crime, Drama, Thriller",Todd Phillips,122,8.4,59,55.0,1078.96
+66,Coco,2017,United States,"Computer Animation, Supernatural Fantasy, Adventure, Animation, Drama, Family, Fantasy, Music, Mystery","Lee Unkrich, Adrian Molina",105,8.4,81,175.0,814.64
+67,Aliens,1986,United Kingdom,"Alien Invasion, Cyberpunk, Space Sci-Fi, Action, Adventure, Sci-Fi, Thriller",James Cameron,137,8.4,84,18.5,131.06
+68,Inglourious Basterds,2009,United States,"Dark Comedy, Adventure, Drama, War",Quentin Tarantino,153,8.4,69,70.0,321.46
+69,The Dark Knight Rises,2012,United States,"Action Epic, Epic, Superhero, Action, Drama, Thriller",Christopher Nolan,164,8.4,78,250.0,1114.98
+70,Avengers: Endgame,2019,United States,"Space Sci-Fi, Superhero, Time Travel, Tragedy, Action, Adventure, Drama, Sci-Fi","Anthony Russo, Joe Russo",181,8.4,78,356.0,2799.44
+71,Apocalypse Now,1979,United States,"Adventure Epic, Epic, Psychological Drama, Quest, War Epic, Drama, Mystery, War",Francis Ford Coppola,147,8.4,94,31.5,105.09
+72,Memento,2000,United States,"Psychological Thriller, Suspense Mystery, Mystery, Thriller",Christopher Nolan,113,8.4,83,9.0,40.05
+73,Avengers: Infinity War,2018,United States,"Space Sci-Fi, Superhero, Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo",149,8.4,68,321.0,2052.42
+74,Raiders of the Lost Ark,1981,United States,"Adventure Epic, Desert Adventure, Globetrotting Adventure, Quest, Action, Adventure",Steven Spielberg,115,8.4,86,18.0,389.93
+75,WALL·E,2008,United States,"Adventure Epic, Artificial Intelligence, Computer Animation, Dystopian Sci-Fi, Space Sci-Fi, Adventure, Animation, Family, Sci-Fi",Andrew Stanton,98,8.4,95,180.0,527.4
+76,Spider-Man: Into the Spider-Verse,2018,Canada,"Computer Animation, Superhero, Supernatural Fantasy, Teen Adventure, Urban Adventure, Action, Adventure, Animation, Comedy, Family","Bob Persichetti, Peter Ramsey, Rodney Rothman",117,8.4,87,90.0,393.6
+77,Your Name.,2016,Japan,"Anime, Shōjo, Animation, Drama, Fantasy, Romance",Makoto Shinkai,106,8.4,81,370.0,405.34
+78,The Lives of Others,2006,Germany,"Political Thriller, Psychological Drama, Spy, Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,137,8.4,89,2.0,77.67
+79,Amadeus,1984,United States,"Tragedy, Biography, Drama, Music",Milos Forman,160,8.4,87,18.0,52.08
+80,Sunset Blvd.,1950,United States,"Film Noir, Psychological Drama, Showbiz Drama, Tragedy, Drama",Billy Wilder,110,8.4,94,1.75,0.31
+81,Capernaum,2018,Lebanon,Drama,Nadine Labaki,126,8.4,75,4.0,64.42
+82,Laapataa Ladies,2023,India,"Comedy, Drama",Kiran Rao,122,8.4,,,0.11
+83,Das Boot,1981,West Germany,"War Epic, Drama, War",Wolfgang Petersen,149,8.4,85,32.0,11.49
+84,3 Idiots,2009,India,"Coming-of-Age, Comedy, Drama",Rajkumar Hirani,170,8.4,67,550.0,60.26
+85,Paths of Glory,1957,United States,"Drama, War",Stanley Kubrick,88,8.4,90,0.94,0.01
+86,Witness for the Prosecution,1957,United States,"Legal Drama, Legal Thriller, Whodunnit, Crime, Drama, Mystery, Thriller",Billy Wilder,116,8.4,76,3.0,0.01
+87,The Great Dictator,1940,United States,"Parody, Satire, Slapstick, Comedy, Drama, War",Charles Chaplin,125,8.4,,2.0,0.97
+88,High and Low,1963,Japan,"Police Procedural, Crime, Drama, Mystery, Thriller",Akira Kurosawa,143,8.4,90,230.0,0.05
+89,Asuran,2019,India,"Action, Drama",Vetrimaaran,141,8.4,,600.0,0.38
+90,Kaithi,2019,India,"Action, Crime, Drama, Thriller",Lokesh Kanagaraj,145,8.4,,240.0,0.52
+91,Drishyam 2,2021,India,"Crime, Drama, Thriller",Jeethu Joseph,152,8.4,,,0.0
+92,The Wild Robot,2024,United States,"Computer Animation, Survival, Animation, Sci-Fi",Chris Sanders,102,8.3,85,78.0,292.21
+93,Oppenheimer,2023,United States,"Docudrama, Epic, Historical Epic, Period Drama, Psychological Drama, Biography, Drama, History",Christopher Nolan,180,8.3,90,100.0,975.59
+94,Come and See,1985,Soviet Union,"Epic, Period Drama, Tragedy, War Epic, Drama, Thriller, War",Elem Klimov,142,8.3,,,20.93
+95,American Beauty,1999,United States,"Psychological Drama, Tragedy, Drama",Sam Mendes,122,8.3,84,15.0,356.3
+96,Eternal Sunshine of the Spotless Mind,2004,United States,"Dark Romance, Psychological Drama, Drama, Romance, Sci-Fi",Michel Gondry,108,8.3,89,20.0,73.4
+97,Requiem for a Dream,2000,United States,"Psychological Drama, Tragedy, Drama",Darren Aronofsky,102,8.3,71,4.5,7.39
+98,Heat,1995,United States,"Cop Drama, Epic, Gangster, Heist, Action, Crime, Drama",Michael Mann,170,8.3,76,60.0,187.44
+99,Good Will Hunting,1997,United States,"Coming-of-Age, Psychological Drama, Drama, Romance",Gus Van Sant,126,8.3,71,10.0,225.93
+100,Oldboy,2003,South Korea,"Dark Comedy, One-Person Army Action, Psychological Thriller, Action, Drama, Mystery, Thriller",Park Chan-wook,120,8.3,78,3.0,17.54
+101,Scarface,1983,United States,"Drug Crime, Epic, Gangster, Tragedy, Crime, Drama",Brian De Palma,170,8.3,65,50.0,66.44
+102,Braveheart,1995,United States,"Costume Drama, Epic, Period Drama, War Epic, Biography, Drama, War",Mel Gibson,178,8.3,68,72.0,213.22
+103,2001: A Space Odyssey,1968,United Kingdom,"Adventure Epic, Artificial Intelligence, Sci-Fi Epic, Space Sci-Fi, Adventure, Sci-Fi",Stanley Kubrick,149,8.3,84,12.0,66.78
+104,Incendies,2010,Canada,"Suspense Mystery, Drama, Mystery, War",Denis Villeneuve,131,8.3,80,6.8,6.8
+105,The Hunt,2012,Denmark,"Psychological Drama, Tragedy, Drama",Thomas Vinterberg,115,8.3,77,20.0,15.89
+106,Once Upon a Time in America,1984,Italy,"Dark Comedy, Epic, Gangster, Period Drama, Crime, Drama",Sergio Leone,229,8.3,75,30.0,5.48
+107,Up,2009,United States,"Coming-of-Age, Computer Animation, Globetrotting Adventure, Adventure, Animation, Comedy, Drama, Family","Pete Docter, Bob Peterson",96,8.3,88,175.0,735.1
+108,Toy Story,1995,United States,"Buddy Comedy, Computer Animation, Supernatural Fantasy, Urban Adventure, Adventure, Animation, Comedy, Family, Fantasy",John Lasseter,81,8.3,96,30.0,394.44
+109,Hamilton,2020,United States,"Biography, Drama, History, Musical",Thomas Kail,160,8.3,88,,
+110,Reservoir Dogs,1992,United States,"Gangster, Heist, Crime, Thriller",Quentin Tarantino,99,8.3,81,1.2,2.93
+111,Amélie,2001,France,"Feel-Good Romance, Quirky Comedy, Romantic Comedy, Comedy, Romance",Jean-Pierre Jeunet,122,8.3,70,10.0,175.18
+112,Vertigo,1958,United States,"Psychological Thriller, Suspense Mystery, Mystery, Romance, Thriller",Alfred Hitchcock,128,8.3,100,2.48,7.81
+113,Princess Mononoke,1997,Japan,"Action Epic, Adult Animation, Adventure Epic, Anime, Dark Fantasy, Fantasy Epic, Hand-Drawn Animation, Quest, Action, Adventure",Hayao Miyazaki,133,8.3,76,2400.0,170.34
+114,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,United Kingdom,"Dark Comedy, Political Drama, Satire, Comedy, War",Stanley Kubrick,95,8.3,97,1.8,9.63
+115,The Sting,1973,United States,"Caper, Comedy, Crime, Drama",George Roy Hill,129,8.3,83,5.5,156.0
+116,Metropolis,1927,Germany,"Dystopian Sci-Fi, Epic, Sci-Fi Epic, Steampunk, Drama, Sci-Fi",Fritz Lang,153,8.3,98,6.0,1.35
+117,Lawrence of Arabia,1962,United Kingdom,"Adventure Epic, Desert Adventure, War Epic, Adventure, Biography, Drama, War",David Lean,227,8.3,100,15.0,45.76
+118,Toy Story 3,2010,United States,"Computer Animation, Supernatural Fantasy, Urban Adventure, Adventure, Animation, Comedy, Family, Fantasy",Lee Unkrich,103,8.3,92,200.0,1067.32
+119,Star Wars: Episode VI - Return of the Jedi,1983,United States,"Action Epic, Adventure Epic, Fantasy Epic, Quest, Sci-Fi Epic, Space Sci-Fi, Sword & Sorcery, Action, Adventure, Fantasy",Richard Marquand,131,8.3,58,32.5,482.47
+120,To Kill a Mockingbird,1962,United States,"Legal Drama, Period Drama, Crime, Drama",Robert Mulligan,129,8.3,88,2.0,0.6
+121,Citizen Kane,1941,United States,"Epic, Drama, Mystery",Orson Welles,119,8.3,100,0.84,1.71
+122,North by Northwest,1959,United States,"Spy, Action, Adventure, Mystery, Thriller",Alfred Hitchcock,136,8.3,98,3.1,0.19
+123,Singin' in the Rain,1952,United States,"Classic Musical, Feel-Good Romance, Jukebox Musical, Romantic Comedy, Comedy, Musical, Romance","Stanley Donen, Gene Kelly",103,8.3,99,2.54,2.09
+124,The Apartment,1960,United States,"Farce, Holiday Comedy, Holiday Romance, Romantic Comedy, Comedy, Drama, Holiday, Romance",Billy Wilder,125,8.3,94,3.0,18.78
+125,M,1931,Germany,"Psychological Thriller, Serial Killer, Suspense Mystery, Crime, Mystery, Thriller",Fritz Lang,117,8.3,,,0.04
+126,Dangal,2016,India,"Action, Biography, Drama, Sport",Nitesh Tiwari,161,8.3,,700.0,303.72
+127,A Separation,2011,Iran,"Legal Drama, Psychological Drama, Drama",Asghar Farhadi,123,8.3,95,0.5,22.93
+128,Ikiru,1952,Japan,"Psychological Drama, Tragedy, Drama",Akira Kurosawa,143,8.3,92,,0.11
+129,Double Indemnity,1944,United States,"Film Noir, Hard-boiled Detective, Crime, Drama, Mystery, Thriller",Billy Wilder,107,8.3,95,0.93,0.02
+130,Like Stars on Earth,2007,India,"Drama, Family","Aamir Khan, Amole Gupte",162,8.3,,,21.9
+131,Judgment at Nuremberg,1961,United States,"Legal Drama, Drama, War",Stanley Kramer,179,8.3,60,3.0,0.01
+132,Bicycle Thieves,1948,Italy,"Tragedy, Drama",Vittorio De Sica,89,8.3,,0.13,0.45
+133,Shershaah,2021,India,"Action Epic, Docudrama, Action, Biography, Drama, War",Vishnuvardhan,135,8.3,,,
+134,Vikram,2022,India,"Action, Crime, Drama, Thriller",Lokesh Kanagaraj,175,8.3,,1500.0,29.84
+135,Chhichhore,2019,India,"Comedy, Drama, Romance",Nitesh Tiwari,143,8.3,,,3.31
+136,Sardar Udham,2021,India,"True Crime, Biography, Crime, Drama, History",Shoojit Sircar,164,8.3,,,
+137,Raatchasan,2018,India,"Action, Crime, Drama, Mystery, Thriller",Ram Kumar,146,8.3,,,
+138,Drishyam,2013,India,"Crime, Drama, Thriller",Jeethu Joseph,160,8.3,,35.0,13.08
+139,The Thing,1982,United States,"Alien Invasion, Body Horror, Monster Horror, Supernatural Horror, Tragedy, Horror, Mystery, Sci-Fi",John Carpenter,109,8.2,57,15.0,20.63
+140,The Sixth Sense,1999,United States,"Psychological Drama, Psychological Thriller, Suspense Mystery, Drama, Mystery, Thriller",M. Night Shyamalan,107,8.2,64,40.0,672.81
+141,The Wolf of Wall Street,2013,United States,"Dark Comedy, Satire, True Crime, Biography, Comedy, Crime, Drama, Financial Drama",Martin Scorsese,180,8.2,75,100.0,407.04
+142,Spider-Man: No Way Home,2021,United States,"Superhero, Supernatural Fantasy, Urban Adventure, Action, Adventure, Fantasy, Sci-Fi",Jon Watts,148,8.2,71,200.0,1952.72
+143,Jurassic Park,1993,United States,"Dinosaur Adventure, Jungle Adventure, Action, Adventure, Sci-Fi, Thriller",Steven Spielberg,127,8.2,68,63.0,1104.38
+144,Shutter Island,2010,United States,"Psychological Thriller, Suspense Mystery, Drama, Mystery, Thriller",Martin Scorsese,138,8.2,63,80.0,294.94
+145,Top Gun: Maverick,2022,United States,"Action Epic, Epic, Action, Drama",Joseph Kosinski,130,8.2,78,170.0,1495.7
+146,Prisoners,2013,United States,"Psychological Thriller, Suspense Mystery, Crime, Drama, Mystery, Thriller",Denis Villeneuve,153,8.2,70,46.0,122.13
+147,No Country for Old Men,2007,United States,"Contemporary Western, Serial Killer, Crime, Drama, Thriller","Ethan Coen, Joel Coen",122,8.2,92,25.0,171.63
+148,Batman Begins,2005,United States,"Action Epic, Epic, Superhero, Tragedy, Action, Crime, Drama",Christopher Nolan,140,8.2,70,150.0,375.4
+149,Green Book,2018,United States,"Docudrama, Period Drama, Road Trip, Biography, Comedy, Drama, Music",Peter Farrelly,130,8.2,69,23.0,321.75
+150,A Clockwork Orange,1971,United Kingdom,"Dark Comedy, Dystopian Sci-Fi, Crime, Sci-Fi",Stanley Kubrick,136,8.2,77,2.2,27.03
+151,Taxi Driver,1976,United States,"Psychological Drama, Crime, Drama",Martin Scorsese,114,8.2,94,1.3,28.58
+152,Snatch,2000,United Kingdom,"Caper, Dark Comedy, Gangster, Comedy, Crime",Guy Ritchie,104,8.2,55,6.0,83.56
+153,Kill Bill: Vol. 1,2003,United States,"Martial Arts, One-Person Army Action, Action, Crime, Thriller",Quentin Tarantino,111,8.2,69,30.0,180.91
+154,Unforgiven,1992,United States,"Tragedy, Drama, Western",Clint Eastwood,130,8.2,85,14.4,159.17
+155,The Truman Show,1998,United States,"Dark Comedy, High-Concept Comedy, Psychological Drama, Satire, Showbiz Drama, Comedy, Drama",Peter Weir,103,8.2,90,60.0,264.12
+156,Tumbbad,2018,India,"Body Horror, Folk Horror, Drama, Fantasy, Horror, Thriller","Rahi Anil Barve, Anand Gandhi, Adesh Prasad",104,8.2,,,1.69
+157,Pan's Labyrinth,2006,Mexico,"Coming-of-Age, Dark Fantasy, Fairy Tale, Period Drama, Supernatural Fantasy, Teen Fantasy, Tragedy, Drama, Fantasy, War",Guillermo del Toro,118,8.2,98,19.0,83.86
+158,1917,2019,United Kingdom,"Epic, Period Drama, War Epic, Action, Drama, History, War",Sam Mendes,119,8.2,78,95.0,390.41
+159,Die Hard,1988,United States,"One-Person Army Action, Action, Holiday, Thriller",John McTiernan,132,8.2,72,28.0,143.65
+160,There Will Be Blood,2007,United States,"Epic, Period Drama, Psychological Drama, Tragedy, Drama",Paul Thomas Anderson,158,8.2,93,25.0,76.19
+161,A Beautiful Mind,2001,United States,"Docudrama, Period Drama, Psychological Drama, Biography, Drama, Mystery",Ron Howard,135,8.2,72,58.0,316.79
+162,Casino,1995,United States,"Docudrama, Epic, Gangster, True Crime, Crime, Drama",Martin Scorsese,178,8.2,73,52.0,116.11
+163,Howl's Moving Castle,2004,Japan,"Adventure Epic, Anime, Hand-Drawn Animation, Supernatural Fantasy, Adventure, Animation, Family, Fantasy",Hayao Miyazaki,119,8.2,82,24.0,240.42
+164,Full Metal Jacket,1987,United Kingdom,"Period Drama, Drama, War",Stanley Kubrick,116,8.2,78,30.0,50.19
+165,Finding Nemo,2003,United States,"Animal Adventure, Buddy Comedy, Computer Animation, Quest, Sea Adventure, Adventure, Animation, Comedy, Family","Andrew Stanton, Lee Unkrich",100,8.2,90,94.0,941.64
+166,L.A. Confidential,1997,United States,"Conspiracy Thriller, Cop Drama, Hard-boiled Detective, Police Procedural, Suspense Mystery, Whodunnit, Crime, Drama, Mystery, Thriller",Curtis Hanson,138,8.2,91,35.0,126.22
+167,Downfall,2004,Germany,"Docudrama, Political Drama, Biography, Drama, History, War",Oliver Hirschbiegel,156,8.2,82,13.5,92.18
+168,The Father,2020,United Kingdom,"Psychological Drama, Drama, Mystery",Florian Zeller,97,8.2,88,6.0,24.05
+169,Monty Python and the Holy Grail,1975,United Kingdom,"Parody, Quest, Sketch Comedy, Slapstick, Sword & Sorcery, Adventure, Comedy, Fantasy","Terry Gilliam, Terry Jones",91,8.2,91,0.23,2.82
+170,Indiana Jones and the Last Crusade,1989,United States,"Adventure Epic, Desert Adventure, Globetrotting Adventure, Quest, Action, Adventure",Steven Spielberg,127,8.2,65,48.0,474.17
+171,The Secret in Their Eyes,2009,Argentina,"Dark Romance, Erotic Thriller, Legal Thriller, Period Drama, Psychological Drama, Psychological Thriller, Suspense Mystery, Tragedy, Whodunnit, Drama",Juan José Campanella,129,8.2,80,2.0,35.08
+172,Gone with the Wind,1939,United States,"Epic, Romantic Epic, Tragic Romance, War Epic, Drama, Romance, War","Victor Fleming, George Cukor, Sam Wood",238,8.2,97,3.98,402.38
+173,The Elephant Man,1980,United States,"Docudrama, Period Drama, Tragedy, Biography, Drama",David Lynch,124,8.2,78,5.0,26.03
+174,For a Few Dollars More,1965,Italy,"One-Person Army Action, Spaghetti Western, Drama, Western",Sergio Leone,132,8.2,74,0.6,15.0
+175,Klaus,2019,Spain,"Hand-Drawn Animation, Holiday Animation, Holiday Comedy, Holiday Family, Adventure, Animation, Comedy, Family, Fantasy, Holiday","Sergio Pablos, Carlos Martínez López",96,8.2,65,40.0,
+176,Some Like It Hot,1959,United States,"Buddy Comedy, Farce, Screwball Comedy, Comedy, Music, Romance",Billy Wilder,121,8.2,98,2.88,0.21
+177,The Great Escape,1963,United States,"Period Drama, Prison Drama, War Epic, Adventure, Drama, Thriller, War",John Sturges,172,8.2,86,4.0,0.23
+178,Ran,1985,Japan,"Samurai, Tragedy, War Epic, Action, Drama, War",Akira Kurosawa,160,8.2,97,11.5,4.17
+179,All About Eve,1950,United States,"Showbiz Drama, Drama",Joseph L. Mankiewicz,138,8.2,98,1.4,0.15
+180,Dial M for Murder,1954,United States,"Crime, Thriller",Alfred Hitchcock,105,8.2,75,1.4,0.05
+181,Rashomon,1950,Japan,"Crime, Drama, Mystery",Akira Kurosawa,88,8.2,98,0.25,0.13
+182,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,Japan,"Adult Animation, Anime, Dark Fantasy, Shōnen, Superhero, Supernatural Fantasy, Sword & Sorcery, Action, Adventure, Animation",Haruo Sotozaki,117,8.2,72,15.0,473.23
+183,K.G.F: Chapter 2,2022,India,"Action Epic, Epic, Gangster, Period Drama, Action, Crime, Drama, Thriller",Prashanth Neel,166,8.2,,1000.0,89.12
+184,Miracle in Cell No. 7,2019,Turkey,Drama,Mehmet Ada Öztekin,132,8.2,,,17.16
+185,Drishyam,2015,India,"Crime, Drama, Mystery, Thriller",Nishikant Kamat,163,8.2,,9.4,
+186,Yojimbo,1961,Japan,"One-Person Army Action, Period Drama, Samurai, Action, Drama, Thriller",Akira Kurosawa,110,8.2,93,,0.05
+187,The Treasure of the Sierra Madre,1948,United States,"Tragedy, Adventure, Drama, Western",John Huston,126,8.2,98,3.0,5.01
+188,Ayla,2017,Turkey,"Biography, Drama, History, War",Can Ulkay,125,8.2,,,0.95
+189,A Man Escaped,1956,France,"Prison Drama, Drama, Thriller, War",Robert Bresson,101,8.2,,,
+190,Andhadhun,2018,India,"Crime, Mystery, Thriller",Sriram Raghavan,139,8.2,,4.5,62.48
+191,Children of Heaven,1997,Iran,"Drama, Family, Sport",Majid Majidi,89,8.2,77,0.18,0.93
+192,Gangs of Wasseypur,2012,India,"True Crime, Action, Comedy, Crime, Drama, Thriller",Anurag Kashyap,321,8.2,89,184.0,4.38
+193,Bhaag Milkha Bhaag,2013,India,"Biography, Drama, Sport",Rakeysh Omprakash Mehra,186,8.2,,410.0,17.55
+194,Kantara,2022,India,"One-Person Army Action, Action, Adventure, Drama, Thriller",Rishab Shetty,148,8.2,,2.0,2.41
+195,K.G.F,2018,India,"Action Epic, Epic, Gangster, Period Drama, Action, Crime, Drama, Thriller",Prashanth Neel,154,8.2,,800.0,6.42
+196,The Kid,1921,United States,"Buddy Comedy, Slapstick, Comedy, Drama, Family",Charles Chaplin,68,8.2,,0.25,0.04
+197,Pather Panchali,1955,India,"Coming-of-Age, Tragedy, Drama",Satyajit Ray,125,8.2,,,0.14
+198,Drishyam 2,2022,India,"Suspense Mystery, Crime, Drama, Mystery, Thriller",Abhishek Pathak,140,8.2,,500.0,2.97
+199,My Father and My Son,2005,Turkey,"Drama, Family",Çagan Irmak,112,8.2,,,18.61
+200,Baahubali 2: The Conclusion,2017,India,"Action Epic, Epic, One-Person Army Action, Period Drama, Action, Drama",S.S. Rajamouli,167,8.2,,2500.0,254.16
+201,Zindagi Na Milegi Dobara,2011,India,"Road Trip, Comedy, Drama, Musical, Romance",Zoya Akhtar,155,8.2,,550.0,5.19
+202,Dersu Uzala,1975,Soviet Union,"Docudrama, Period Drama, Adventure, Biography, Drama",Akira Kurosawa,142,8.2,,4.0,0.01
+203,Sherlock Jr.,1924,United States,"Bumbling Detective, Farce, Feel-Good Romance, Romantic Comedy, Slapstick, Action, Comedy, Romance",Buster Keaton,45,8.2,,,0.0
+204,"Swades: We, the People",2004,India,"Drama, Musical",Ashutosh Gowariker,210,8.2,,,1.95
+205,Hera Pheri,2000,India,"Action, Comedy, Crime, Drama",Priyadarshan,156,8.2,,,
+206,Uri: The Surgical Strike,2019,India,"Action, Drama, History, War",Aditya Dhar,138,8.2,,450.0,39.35
+207,Umberto D.,1952,Italy,"Tragedy, Drama",Vittorio De Sica,89,8.2,92,,0.07
+208,Vikram Vedha,2017,India,"Action, Crime, Drama, Thriller","Gayatri, Pushkar, Gowtham Selvaraj",147,8.2,,150.0,0.55
+209,Rangasthalam,2018,India,"Action, Drama",Sukumar,170,8.2,,,0.55
+210,Paan Singh Tomar,2012,India,"True Crime, Action, Biography, Crime, Sport, Thriller",Tigmanshu Dhulia,135,8.2,,,0.04
+211,The Exorcist,1973,United States,"Body Horror, Supernatural Horror, Horror",William Friedkin,122,8.1,83,11.0,430.87
+212,Inside Out,2015,United States,"Coming-of-Age, Computer Animation, Adventure, Animation, Comedy, Drama, Family, Fantasy","Pete Docter, Ronnie Del Carmen",95,8.1,94,175.0,859.08
+213,Mad Max: Fury Road,2015,Australia,"Action Epic, Adventure Epic, Car Action, Desert Adventure, Dystopian Sci-Fi, Quest, Road Trip, Action, Adventure, Sci-Fi",George Miller,120,8.1,90,150.0,380.44
+214,The Wizard of Oz,1939,United States,"Adventure Epic, Classic Musical, Fairy Tale, Fantasy Epic, Quest, Adventure, Family, Fantasy, Musical","Victor Fleming, King Vidor",102,8.1,92,2.78,25.64
+215,Pirates of the Caribbean: The Curse of the Black Pearl,2003,United States,"Sea Adventure, Supernatural Fantasy, Swashbuckler, Sword & Sandal, Action, Adventure, Fantasy",Gore Verbinski,143,8.1,63,140.0,654.26
+216,Harry Potter and the Deathly Hallows: Part 2,2011,United Kingdom,"Dark Fantasy, Teen Adventure, Teen Fantasy, Adventure, Family, Fantasy, Mystery",David Yates,130,8.1,85,125.0,1342.48
+217,The Terminator,1984,United Kingdom,"Artificial Intelligence, Cyberpunk, Dystopian Sci-Fi, Time Travel, Action, Adventure, Sci-Fi",James Cameron,107,8.1,84,6.4,78.37
+218,Jaws,1975,United States,"Sea Adventure, Survival, Adventure, Drama, Thriller",Steven Spielberg,124,8.1,87,7.0,477.22
+219,The Big Lebowski,1998,United Kingdom,"Satire, Stoner Comedy, Comedy, Crime","Joel Coen, Ethan Coen",117,8.1,71,15.0,48.07
+220,Dead Poets Society,1989,United States,"Coming-of-Age, Teen Drama, Comedy, Drama",Peter Weir,128,8.1,79,16.4,235.86
+221,The Handmaiden,2016,South Korea,"Dark Romance, Erotic Thriller, Psychological Thriller, Steamy Romance, Drama, Romance, Thriller",Park Chan-wook,145,8.1,85,10000.0,37.86
+222,Gone Girl,2014,United States,"Erotic Thriller, Psychological Drama, Psychological Thriller, Suspense Mystery, Tragedy, Drama, Mystery, Thriller",David Fincher,149,8.1,79,61.0,370.89
+223,Ratatouille,2007,United States,"Animal Adventure, Computer Animation, Adventure, Animation, Comedy, Family, Fantasy","Brad Bird, Jan Pinkava",111,8.1,96,150.0,623.73
+224,Hacksaw Ridge,2016,United States,"Period Drama, Biography, Drama, History, War",Mel Gibson,139,8.1,71,40.0,180.56
+225,Stand by Me,1986,United States,"Coming-of-Age, Adventure, Comedy, Drama",Rob Reiner,89,8.1,75,8.0,53.52
+226,"Monsters, Inc.",2001,United States,"Buddy Comedy, Computer Animation, Supernatural Fantasy, Urban Adventure, Adventure, Animation, Comedy, Family, Fantasy","Pete Docter, David Silverman, Lee Unkrich",92,8.1,79,115.0,579.77
+227,Blade Runner,1982,United States,"Artificial Intelligence, Cyber Thriller, Cyberpunk, Dystopian Sci-Fi, Action, Drama, Sci-Fi, Thriller",Ridley Scott,117,8.1,84,28.0,41.76
+228,The Grand Budapest Hotel,2014,United States,"Caper, Quirky Comedy, Adventure, Comedy, Crime",Wes Anderson,99,8.1,88,25.0,174.57
+229,Trainspotting,1996,United Kingdom,"Dark Comedy, Psychological Drama, Drama",Danny Boyle,93,8.1,83,1.5,16.98
+230,V for Vendetta,2005,United States,"Dystopian Sci-Fi, Political Thriller, Superhero, Action, Drama, Sci-Fi, Thriller",James McTeigue,132,8.1,62,54.0,134.69
+231,The Help,2011,United States,"Period Drama, Drama",Tate Taylor,146,8.1,62,25.0,221.8
+232,Catch Me If You Can,2002,United States,"Caper, Coming-of-Age, Docudrama, Period Drama, True Crime, Biography, Crime, Drama",Steven Spielberg,141,8.1,75,52.0,352.11
+233,Logan,2017,United States,"Dystopian Sci-Fi, Road Trip, Superhero, Action, Drama, Sci-Fi, Thriller",James Mangold,137,8.1,77,97.0,619.18
+234,Fargo,1996,United Kingdom,"Cop Drama, Dark Comedy, Police Procedural, Tragedy, Crime, Thriller","Joel Coen, Ethan Coen",98,8.1,88,7.0,60.61
+235,Memories of Murder,2003,South Korea,"Dark Comedy, Police Procedural, Serial Killer, True Crime, Crime, Drama, Mystery, Thriller",Bong Joon Ho,131,8.1,82,2.8,1.21
+236,"Three Billboards Outside Ebbing, Missouri",2017,United Kingdom,"Dark Comedy, Satire, Comedy, Crime, Drama",Martin McDonagh,115,8.1,88,15.0,162.73
+237,Room,2015,Ireland,"Psychological Drama, Drama, Thriller",Lenny Abrahamson,118,8.1,86,13.0,35.4
+238,Into the Wild,2007,United States,"Coming-of-Age, Docudrama, Road Trip, Survival, Tragedy, Adventure, Biography, Drama",Sean Penn,148,8.1,73,15.0,56.68
+239,The Sound of Music,1965,United States,"Classic Musical, Biography, Drama, Family, Musical, Romance",Robert Wise,172,8.1,63,8.2,159.48
+240,Le Mans '66,2019,United States,"Docudrama, Motorsport, Action, Biography, Drama, Sport",James Mangold,152,8.1,81,97.6,225.51
+241,How to Train Your Dragon,2010,United States,"Computer Animation, Sword & Sorcery, Teen Fantasy, Action, Adventure, Animation, Family, Fantasy","Dean DeBlois, Chris Sanders",98,8.1,75,165.0,494.88
+242,Before Sunrise,1995,Austria,"Drama, Romance",Richard Linklater,101,8.1,78,2.5,6.57
+243,Warrior,2011,United States,"Boxing, Action, Drama, Sport",Gavin O'Connor,140,8.1,71,25.0,23.31
+244,12 Years a Slave,2013,United Kingdom,"Epic, Biography, Drama, History",Steve McQueen,134,8.1,96,20.0,187.73
+245,"Paris, Texas",1984,West Germany,"Road Trip, Drama",Wim Wenders,145,8.1,81,1.16,2.64
+246,The Deer Hunter,1978,United States,"War Epic, Drama, War",Michael Cimino,183,8.1,90,15.0,49.08
+247,Rocky,1976,United States,"Boxing, Drama, Sport",John G. Avildsen,120,8.1,70,0.96,117.25
+248,Spotlight,2015,United States,"Docudrama, Legal Drama, Period Drama, True Crime, Workplace Drama, Biography, Crime, Drama",Tom McCarthy,129,8.1,93,20.0,98.69
+249,Platoon,1986,United States,"Drama, War",Oliver Stone,120,8.1,92,6.0,138.55
+250,The Third Man,1949,United Kingdom,"Film Noir, Hard-boiled Detective, Whodunnit, Mystery, Thriller",Carol Reed,104,8.1,97,,1.41
+251,Chinatown,1974,United States,"Conspiracy Thriller, Hard-boiled Detective, Psychological Drama, Psychological Thriller, Tragedy, Drama, Mystery, Thriller",Roman Polanski,130,8.1,92,6.0,29.23
+252,Gran Torino,2008,Germany,Drama,Clint Eastwood,116,8.1,73,33.0,269.96
+253,"Lock, Stock and Two Smoking Barrels",1998,United Kingdom,"Farce, Action, Comedy, Crime",Guy Ritchie,107,8.1,67,0.96,3.75
+254,Million Dollar Baby,2004,United States,"Boxing, Tragedy, Drama, Sport",Clint Eastwood,132,8.1,86,30.0,216.76
+255,Rush,2013,United Kingdom,"Docudrama, Motorsport, Action, Biography, Drama, Sport",Ron Howard,123,8.1,74,38.0,96.99
+256,Wild Tales,2014,Argentina,"Dark Comedy, Comedy, Drama, Thriller",Damián Szifron,122,8.1,77,3.3,31.48
+257,Barry Lyndon,1975,United Kingdom,"Adventure, Drama, War",Stanley Kubrick,185,8.1,89,11.0,0.28
+258,Portrait of a Lady on Fire,2019,France,"Drama, Romance",Céline Sciamma,122,8.1,95,4.86,10.02
+259,In the Mood for Love,2000,Hong Kong,"Dark Romance, Tragic Romance, Drama, Romance",Kar-Wai Wong,98,8.1,87,,15.06
+260,My Neighbour Totoro,1988,Japan,"Anime, Hand-Drawn Animation, Iyashikei, Animation, Comedy, Family, Fantasy",Hayao Miyazaki,86,8.1,87,3.7,30.33
+261,A Silent Voice,2016,Japan,"Anime, Coming-of-Age, Psychological Drama, Shōnen, Slice of Life, Animation, Drama","Taichi Ishidate, Naoko Yamada",130,8.1,78,,30.5
+262,The Seventh Seal,1957,Sweden,"Psychological Drama, Drama, Fantasy",Ingmar Bergman,96,8.1,88,0.15,0.31
+263,The Iron Giant,1999,United States,"Alien Invasion, Artificial Intelligence, Hand-Drawn Animation, High-Concept Comedy, Kaiju, Space Sci-Fi, Action, Adventure, Animation, Comedy",Brad Bird,86,8.1,85,70.0,23.34
+264,In the Name of the Father,1993,Ireland,"Docudrama, Legal Drama, Period Drama, Prison Drama, Tragedy, True Crime, Biography, Crime, Drama",Jim Sheridan,133,8.1,84,13.0,65.8
+265,Ben-Hur,1959,United States,"Adventure Epic, Epic, Sword & Sandal, Adventure, Drama",William Wyler,212,8.1,90,15.0,74.44
+266,Hachi: A Dog's Tale,2009,United Kingdom,"Animal Adventure, Biography, Drama, Family",Lasse Hallström,93,8.1,,16.0,46.75
+267,Before Sunset,2004,France,"Drama, Romance",Richard Linklater,80,8.1,91,2.7,16.51
+268,La haine,1995,France,"Gangster, Psychological Drama, Crime, Drama",Mathieu Kassovitz,98,8.1,,2.59,0.75
+269,Raging Bull,1980,United States,"Boxing, Docudrama, Biography, Drama, Sport",Martin Scorsese,129,8.1,90,18.0,23.41
+270,Rebecca,1940,United States,"Dark Romance, Psychological Thriller, Drama, Mystery, Romance, Thriller",Alfred Hitchcock,130,8.1,86,1.29,0.11
+271,On the Waterfront,1954,United States,"Crime, Drama, Thriller",Elia Kazan,108,8.1,91,0.91,0.0
+272,Mary and Max,2009,Australia,"Dark Comedy, Stop Motion Animation, Animation, Comedy, Drama",Adam Elliot,92,8.1,72,8.24,1.74
+273,Network,1976,United States,"Workplace Drama, Drama",Sidney Lumet,121,8.1,83,3.8,23.7
+274,Hotel Rwanda,2004,United States,"Docudrama, Biography, Drama, History, War",Terry George,121,8.1,79,17.5,33.88
+275,Neon Genesis Evangelion: The End of Evangelion,1997,Japan,"Action Epic, Adult Animation, Anime, Dystopian Sci-Fi, Epic, Hand-Drawn Animation, Kaiju, Mecha, Psychological Drama, Sci-Fi Epic","Directors, Hideaki Anno, Kazuya Tsurumaki, ",87,8.1,,,1.56
+276,The Bridge on the River Kwai,1957,United Kingdom,"Jungle Adventure, War Epic, Adventure, Drama, War",David Lean,161,8.1,88,3.0,27.2
+277,The Man Who Shot Liberty Valance,1962,United States,"Classical Western, Drama, Western",John Ford,123,8.1,94,3.2,
+278,PK,2014,India,"Satire, Comedy, Drama, Sci-Fi",Rajkumar Hirani,153,8.1,,,100.37
+279,Les Diaboliques,1955,France,"Psychological Thriller, Crime, Drama, Horror, Mystery, Thriller",Henri-Georges Clouzot,117,8.1,,,0.01
+280,It Happened One Night,1934,United States,"Road Trip, Romantic Comedy, Screwball Comedy, Comedy, Romance",Frank Capra,105,8.1,87,0.33,0.02
+281,The Red Shoes,1948,United Kingdom,"Drama, Music, Romance","Michael Powell, Emeric Pressburger",135,8.1,,0.5,0.17
+282,The Best Years of Our Lives,1946,United States,"Epic, Feel-Good Romance, Drama, Romance, War",William Wyler,170,8.1,93,2.1,23.67
+283,The Grapes of Wrath,1940,United States,Drama,John Ford,129,8.1,96,0.8,0.01
+284,All Quiet on the Western Front,1930,United States,"Epic, Psychological Drama, Tragedy, War Epic, Drama, War",Lewis Milestone,152,8.1,91,1.2,
+285,Mr. Smith Goes to Washington,1939,United States,"Political Drama, Comedy, Drama",Frank Capra,129,8.1,73,1.9,0.15
+286,Fanny and Alexander,1982,Sweden,"Period Drama, Tragedy, Drama",Ingmar Bergman,188,8.1,100,6.0,6.81
+287,Bajrangi Bhaijaan,2015,India,"Action, Adventure, Comedy, Drama",Kabir Khan,163,8.1,,,121.13
+288,Paper Moon,1973,United States,"Caper, Road Trip, Comedy, Crime, Drama",Peter Bogdanovich,102,8.1,77,2.5,0.0
+289,Three Colours: Red,1994,France,"Dark Romance, Psychological Drama, Tragedy, Drama, Mystery, Romance",Krzysztof Kieslowski,99,8.1,100,,3.63
+290,Tokyo Story,1953,Japan,"Psychological Drama, Drama",Yasujirô Ozu,136,8.1,100,,0.09
+291,Sholay,1975,India,"Action, Adventure, Comedy, Drama, Musical, Thriller, Western",Ramesh Sippy,204,8.1,,,
+292,The Wages of Fear,1953,France,"Psychological Drama, Survival, Adventure, Drama, Thriller",Henri-Georges Clouzot,156,8.1,85,,0.0
+293,Wild Strawberries,1957,Sweden,"Psychological Drama, Drama, Romance",Ingmar Bergman,92,8.1,88,,0.08
+294,Scrooge,1951,United Kingdom,"Holiday Family, Drama, Family, Fantasy, Holiday",Brian Desmond Hurst,86,8.1,,,0.0
+295,The Message,1976,Libya,"Action Epic, Historical Epic, Biography, Drama, History, War",Moustapha Akkad,177,8.1,,10.0,
+296,Z,1969,France,"Political Thriller, Crime, Drama, Thriller",Costa-Gavras,127,8.1,86,,0.08
+297,Yi Yi,2000,Taiwan,"Drama, Romance",Edward Yang,173,8.1,94,,1.2
+298,The Battle of Algiers,1966,Italy,"Docudrama, Political Drama, Drama, War",Gillo Pontecorvo,121,8.1,96,0.8,0.96
+299,Farewell My Concubine,1993,China,"Epic, Period Drama, Political Drama, Romantic Epic, Tragic Romance, Workplace Drama, Drama, Music, Romance",Kaige Chen,171,8.1,84,4.0,7.45
+300,Lagaan: Once Upon a Time in India,2001,India,"Period Drama, Drama, Musical, Sport",Ashutosh Gowariker,224,8.1,84,250.0,1.72
+301,The Passion of Joan of Arc,1928,France,"Legal Drama, Period Drama, Psychological Drama, Tragedy, Biography, Drama, History",Carl Theodor Dreyer,110,8.1,98,,0.02
+302,Army of Shadows,1969,France,"Drama, War",Jean-Pierre Melville,145,8.1,99,,0.93
+303,Autumn Sonata,1978,West Germany,"Tragedy, Drama, Music",Ingmar Bergman,99,8.1,,,0.04
+304,The General,1926,United States,"Farce, Slapstick, Action, Adventure, Comedy, Drama, War","Clyde Bruckman, Buster Keaton",78,8.1,,0.75,0.0
+305,Sunrise: A Song of Two Humans,1927,United States,"Dark Romance, Psychological Drama, Drama, Romance",F.W. Murnau,94,8.1,95,0.2,0.12
+306,Wolf Children,2012,Japan,"Anime, Iyashikei, Animation, Drama, Family, Fantasy",Mamoru Hosoda,117,8.1,76,,55.0
+307,A Moment to Remember,2004,South Korea,"Drama, Romance","Park Kyung-Jin, John H. Lee, Kim Tae-won",117,8.1,,,20.87
+308,To Be or Not to Be,1942,United States,"Screwball Comedy, Comedy, Romance, War",Ernst Lubitsch,99,8.1,86,,4.58
+309,Ace in the Hole,1951,United States,"Film Noir, Survival, Tragedy, Drama",Billy Wilder,111,8.1,72,1.8,2.3
+310,Inherit the Wind,1960,United States,"Legal Drama, Period Drama, Biography, Drama, History",Stanley Kramer,128,8.1,75,2.0,
+311,The Gold Rush,1925,United States,"Farce, Feel-Good Romance, Romantic Comedy, Slapstick, Adventure, Comedy, Drama, Romance, Western",Charles Chaplin,95,8.1,,0.92,0.03
+312,A Wednesday,2008,India,"Suspense Mystery, Action, Crime, Drama, Mystery, Thriller",Neeraj Pandey,104,8.1,,,3.26
+313,La Grande Illusion,1937,France,"Drama, War",Jean Renoir,113,8.1,,,0.02
+314,The Hidden Fortress,1958,Japan,"Action Epic, Adventure Epic, Quest, Samurai, Action, Adventure, Drama",Akira Kurosawa,139,8.1,89,,0.06
+315,Nights of Cabiria,1957,Italy,"Tragedy, Drama",Federico Fellini,110,8.1,,,0.77
+316,Rang De Basanti,2006,India,"Comedy, Crime, Drama",Rakeysh Omprakash Mehra,167,8.1,,,10.8
+317,A Short Film About Love,1988,Poland,"Drama, Romance",Krzysztof Kieslowski,87,8.1,,,
+318,The Twilight Samurai,2002,Japan,"Drama, Romance",Yôji Yamada,129,8.1,82,5.0,7.37
+319,Time of the Gypsies,1988,Yugoslavia,"Comedy, Crime, Drama, Fantasy",Emir Kusturica,142,8.1,,,
+320,Ugetsu,1953,Japan,"Drama, Fantasy, War",Kenji Mizoguchi,96,8.1,,,0.02
+321,Raise the Red Lantern,1991,Hong Kong,"Dark Romance, Period Drama, Tragedy, Drama, Romance",Yimou Zhang,125,8.1,,,2.6
+322,Tangerines,2013,Estonia,"Drama, War",Zaza Urushadze,87,8.1,73,0.65,1.02
+323,Article 15,2019,India,"True Crime, Crime, Drama, Mystery, Thriller",Anubhav Sinha,130,8.1,,,0.73
+324,Jean de Florette,1986,Switzerland,"Comedy, Drama",Claude Berri,120,8.1,,,4.94
+325,White Heat,1949,United States,"Caper, Film Noir, Action, Crime, Drama",Raoul Walsh,114,8.1,89,1.3,0.01
+326,Rififi,1955,France,"Heist, Crime, Drama, Thriller",Jules Dassin,118,8.1,97,,0.52
+327,Viridiana,1961,Mexico,"Period Drama, Drama",Luis Buñuel,91,8.1,,,0.02
+328,Kahaani,2012,India,"Mystery, Thriller",Sujoy Ghosh,122,8.1,,,0.46
+329,The Bandit,1996,Turkey,"Epic, Gangster, Crime, Drama, Thriller",Yavuz Turgul,128,8.1,,1.2,0.04
+330,Munna Bhai M.B.B.S.,2003,India,"Medical Drama, Comedy, Drama",Rajkumar Hirani,156,8.1,,,3.14
+331,Barfi!,2012,India,"Comedy, Drama, Romance",Anurag Basu,151,8.1,,300.0,4.49
+332,Chak De! India,2007,India,"Drama, Family, Sport",Shimit Amin,153,8.1,68,,21.51
+333,OMG: Oh My God!,2012,India,"Satire, Comedy, Drama, Fantasy",Umesh Shukla,125,8.1,,,12.14
+334,Dil Chahta Hai,2001,India,"Coming-of-Age, Comedy, Drama, Romance",Farhan Akhtar,183,8.1,,140.0,0.32
+335,Sarfarosh,1999,India,"Cop Drama, Action, Crime, Drama, Thriller",John Mathew Matthan,174,8.1,,,0.29
+336,Udaan,2010,India,Drama,Vikramaditya Motwane,134,8.1,,,0.43
+337,Masaan,2015,India,Drama,Neeraj Ghaywan,109,8.1,,,0.65
+338,The Circus,1928,United States,"Slapstick, Comedy, Family, Romance",Charles Chaplin,72,8.1,90,0.9,0.03
+339,Talvar,2015,India,"True Crime, Crime, Drama, Mystery, Thriller",Meghna Gulzar,132,8.1,,,6.88
+340,Everything's Gonna Be Great,1998,Turkey,"Comedy, Drama, Thriller",Ömer Vargi,107,8.1,,,0.05
+341,Queen,2013,India,"Adventure, Comedy, Drama",Vikas Bahl,146,8.1,,120.0,0.5
+342,Black,2005,India,Drama,Sanjay Leela Bhansali,122,8.1,,180.0,1.27
+343,Anand,1971,India,"Drama, Musical",Hrishikesh Mukherjee,122,8.1,,3.0,
+344,Young Frankenstein,1974,United States,"Farce, Parody, Slapstick, Comedy",Mel Brooks,106,8.0,83,2.8,86.27
+345,Rosemary's Baby,1968,United States,"Psychological Drama, Psychological Horror, Supernatural Horror, Drama, Horror",Roman Polanski,137,8.0,96,3.2,0.0
+346,Dune: Part One,2021,United States,"Desert Adventure, Sci-Fi Epic, Space Sci-Fi, Action, Adventure, Drama, Sci-Fi",Denis Villeneuve,155,8.0,74,165.0,407.67
+347,Donnie Darko,2001,United States,"Psychological Drama, Psychological Thriller, Time Travel, Drama, Mystery, Sci-Fi, Thriller",Richard Kelly,113,8.0,88,6.0,7.41
+348,Blade Runner 2049,2017,United States,"Action Epic, Artificial Intelligence, Cyber Thriller, Cyberpunk, Dystopian Sci-Fi, Epic, Sci-Fi Epic, Action, Drama, Mystery",Denis Villeneuve,164,8.0,81,150.0,276.61
+349,The Princess Bride,1987,United States,"Adventure Epic, Fairy Tale, Fantasy Epic, Quest, Swashbuckler, Sword & Sorcery, Teen Fantasy, Adventure, Comedy, Family",Rob Reiner,98,8.0,78,16.0,30.96
+350,Deadpool,2016,United States,"Dark Comedy, Gun Fu, Raunchy Comedy, Superhero, Action, Comedy",Tim Miller,108,8.0,65,58.0,782.84
+351,Casino Royale,2006,United States,"Globetrotting Adventure, Spy, Action, Adventure, Thriller",Martin Campbell,144,8.0,80,150.0,616.58
+352,Black Swan,2010,United States,"Psychological Drama, Psychological Thriller, Drama, Thriller",Darren Aronofsky,108,8.0,79,13.0,329.4
+353,La La Land,2016,United States,"Pop Musical, Showbiz Drama, Comedy, Drama, Music, Musical, Romance",Damien Chazelle,128,8.0,94,30.0,509.18
+354,Guardians of the Galaxy,2014,United States,"Quest, Space Sci-Fi, Superhero, Action, Adventure, Comedy, Sci-Fi",James Gunn,121,8.0,76,170.0,773.35
+355,Her,2013,United States,"Artificial Intelligence, Drama, Romance, Sci-Fi",Spike Jonze,126,8.0,91,23.0,48.27
+356,The Incredibles,2004,United States,"Computer Animation, Superhero, Urban Adventure, Action, Adventure, Animation, Family",Brad Bird,115,8.0,90,92.0,631.69
+357,Avengers Assemble,2012,United States,"Action Epic, Alien Invasion, Superhero, Action, Sci-Fi",Joss Whedon,143,8.0,69,220.0,1520.54
+358,Zootropolis,2016,United States,"Animal Adventure, Buddy Comedy, Computer Animation, Urban Adventure, Action, Adventure, Animation, Comedy, Crime, Family","Byron Howard, Rich Moore, Jared Bush",108,8.0,78,150.0,1025.52
+359,Sin City,2005,United States,"Serial Killer, Crime, Thriller","Frank Miller, Quentin Tarantino, Robert Rodriguez",124,8.0,74,40.0,158.73
+360,The Martian,2015,United States,"Space Sci-Fi, Survival, Adventure, Drama, Sci-Fi",Ridley Scott,144,8.0,80,108.0,630.62
+361,The Revenant,2015,Hong Kong,"Period Drama, Survival, Western Epic, Action, Adventure, Drama, Western",Alejandro G. Iñárritu,156,8.0,76,135.0,532.95
+362,The Imitation Game,2014,United States,"Period Drama, Psychological Drama, Biography, Drama, Thriller, War",Morten Tyldum,114,8.0,71,14.0,233.56
+363,Twelve Monkeys,1995,United States,"Cyberpunk, Dystopian Sci-Fi, Psychological Thriller, Time Travel, Mystery, Sci-Fi, Thriller",Terry Gilliam,129,8.0,75,29.0,168.84
+364,The Pursuit of Happyness,2006,United States,"Workplace Drama, Biography, Drama",Gabriele Muccino,117,8.0,64,55.0,307.13
+365,The Last Picture Show,1971,United States,"Coming-of-Age, Teen Drama, Drama, Romance",Peter Bogdanovich,118,8.0,93,1.3,29.15
+366,CODA,2021,France,"Coming-of-Age, Comedy, Drama, Music",Sian Heder,111,8.0,72,10.0,1.91
+367,Magnolia,1999,United States,"Psychological Drama, Drama",Paul Thomas Anderson,188,8.0,78,37.0,48.45
+368,Perfect Blue,1997,Japan,"Adult Animation, Anime, Cop Drama, Erotic Thriller, Hand-Drawn Animation, Hard-boiled Detective, Legal Drama, Legal Thriller, Police Procedural, Serial Killer",Satoshi Kon,81,8.0,67,3.0,0.56
+369,Dances with Wolves,1990,United States,"Epic, Western Epic, Adventure, Drama, Western",Kevin Costner,181,8.0,72,22.0,424.21
+370,Groundhog Day,1993,United States,"Feel-Good Romance, High-Concept Comedy, Holiday Comedy, Holiday Romance, Romantic Comedy, Comedy, Drama, Fantasy, Romance",Harold Ramis,101,8.0,72,14.6,71.11
+371,Lion,2016,India,"Coming-of-Age, Biography, Drama",Garth Davis,118,8.0,69,12.0,140.85
+372,Big Fish,2003,United States,"Adventure Epic, Fairy Tale, Adventure, Drama, Fantasy, Romance",Tim Burton,125,8.0,58,70.0,123.24
+373,Beauty and the Beast,1991,United States,"Dark Fantasy, Fairy Tale, Hand-Drawn Animation, Romantic Epic, Animation, Family, Fantasy, Musical, Romance","Gary Trousdale, Kirk Wise",84,8.0,95,25.0,424.97
+374,Scent of a Woman,1992,United States,"Epic, Drama",Martin Brest,156,8.0,57,31.0,134.1
+375,Soul,2020,United States,"Computer Animation, Adventure, Animation, Comedy, Drama, Family, Fantasy, Music","Pete Docter, Kemp Powers",100,8.0,83,,121.98
+376,The Invisible Guest,2016,Spain,"Crime, Drama, Mystery, Thriller",Oriol Paulo,106,8.0,,4.0,31.19
+377,Blood Diamond,2006,United States,"Political Thriller, Quest, Adventure, Drama, Thriller",Edward Zwick,143,8.0,64,100.0,171.72
+378,The Graduate,1967,United States,"Coming-of-Age, Romantic Comedy, Satire, Comedy, Drama, Romance",Mike Nichols,106,8.0,83,3.0,105.02
+379,Aladdin,1992,United States,"Desert Adventure, Fairy Tale, Feel-Good Romance, Hand-Drawn Animation, Pop Musical, Adventure, Animation, Comedy, Family, Fantasy","Ron Clements, John Musker",90,8.0,86,28.0,504.05
+380,Kill Bill: Vol. 2,2004,United States,"Kung Fu, Martial Arts, One-Person Army Action, Action, Crime, Thriller",Quentin Tarantino,137,8.0,83,30.0,154.12
+381,Slumdog Millionaire,2008,United Kingdom,"Coming-of-Age, Teen Drama, Crime, Drama, Romance","Danny Boyle, Loveleen Tandan",120,8.0,84,15.0,378.41
+382,Rain Man,1988,United States,"Road Trip, Drama",Barry Levinson,133,8.0,65,25.0,354.83
+383,Dogville,2003,Denmark,"Gangster, Psychological Drama, Crime, Drama",Lars von Trier,178,8.0,61,10.0,16.69
+384,Stalker,1979,Soviet Union,"Dystopian Sci-Fi, Drama, Sci-Fi",Andrei Tarkovsky,162,8.0,85,1.0,0.44
+385,Sling Blade,1996,United States,"Psychological Drama, Drama",Billy Bob Thornton,135,8.0,85,1.0,24.44
+386,JFK,1991,France,"Legal Thriller, Political Drama, Political Thriller, Drama, History, Thriller",Oliver Stone,189,8.0,72,40.0,205.41
+387,Dog Day Afternoon,1975,United States,"Heist, True Crime, Biography, Crime, Drama, Thriller",Sidney Lumet,125,8.0,86,1.8,50.0
+388,Akira,1988,Japan,"Action Epic, Adult Animation, Anime, Cyberpunk, Epic, Fantasy Epic, Hand-Drawn Animation, Political Drama, Political Thriller, Sci-Fi Epic",Katsuhiro Ôtomo,124,8.0,68,1100.0,3.28
+389,The King's Speech,2010,United States,"Period Drama, Political Drama, Biography, Drama, History",Tom Hooper,118,8.0,88,15.0,472.09
+390,What Ever Happened to Baby Jane?,1962,United States,"Psychological Horror, Psychological Thriller, Drama, Horror, Thriller",Robert Aldrich,134,8.0,75,0.98,0.0
+391,Papillon,1973,France,"Prison Drama, Biography, Crime, Drama",Franklin J. Schaffner,151,8.0,58,12.0,53.27
+392,Planet of the Apes,1968,United States,"Dystopian Sci-Fi, Sci-Fi Epic, Space Sci-Fi, Time Travel, Adventure, Sci-Fi",Franklin J. Schaffner,112,8.0,79,5.8,32.6
+393,Life of Brian,1979,United Kingdom,"Dark Comedy, Parody, Satire, Comedy",Terry Jones,94,8.0,77,4.0,20.78
+394,The Cabinet of Dr. Caligari,1920,Germany,"Psychological Horror, Psychological Thriller, Suspense Mystery, Horror, Mystery, Thriller",Robert Wiene,76,8.0,,0.02,0.01
+395,Butch Cassidy and the Sundance Kid,1969,United States,"Biography, Crime, Drama, Western",George Roy Hill,110,8.0,66,6.0,102.31
+396,Chungking Express,1994,Hong Kong,"Comedy, Crime, Drama, Mystery, Romance",Kar-Wai Wong,102,8.0,78,,3.29
+397,The Night of the Hunter,1955,United States,"Film Noir, Psychological Drama, Psychological Thriller, Crime, Drama, Thriller",Charles Laughton,92,8.0,97,0.8,0.01
+398,Cinderella Man,2005,United States,"Boxing, Docudrama, Period Drama, Biography, Drama, Romance, Sport",Ron Howard,144,8.0,69,88.0,108.54
+399,The Bourne Ultimatum,2007,United States,"Spy, Action, Mystery, Thriller",Paul Greengrass,115,8.0,85,110.0,444.1
+400,Rio Bravo,1959,United States,Western,Howard Hawks,141,8.0,93,,0.03
+401,Amores perros,2000,Mexico,"Tragedy, Drama, Thriller",Alejandro G. Iñárritu,154,8.0,83,2.0,20.91
+402,Laputa: Castle in the Sky,1986,Japan,"Anime, Hand-Drawn Animation, Adventure, Animation, Family, Fantasy",Hayao Miyazaki,124,8.0,78,3.3,6.22
+403,Cool Hand Luke,1967,United States,"Prison Drama, Tragedy, Crime, Drama",Stuart Rosenberg,127,8.0,92,3.2,0.0
+404,Annie Hall,1977,United States,"Romantic Comedy, Comedy, Romance",Woody Allen,93,8.0,92,4.0,38.29
+405,Nausicaä of the Valley of the Wind,1984,Japan,"Adult Animation, Anime, Dystopian Sci-Fi, Sci-Fi Epic, Steampunk, Adventure, Animation, Sci-Fi",Hayao Miyazaki,117,8.0,86,1.0,9.02
+406,Touch of Evil,1958,United States,"Film Noir, Crime, Drama, Thriller",Orson Welles,95,8.0,99,0.83,2.29
+407,Fiddler on the Roof,1971,United States,"Classic Musical, Drama, Family, Musical, Romance",Norman Jewison,181,8.0,67,9.0,10.41
+408,Federico Fellini's 8½,1963,Italy,"Epic, Psychological Drama, Showbiz Drama, Drama",Federico Fellini,138,8.0,93,,0.2
+409,Roman Holiday,1953,United States,"Romantic Comedy, Comedy, Drama, Romance",William Wyler,118,8.0,78,1.5,0.02
+410,Ip Man,2008,Hong Kong,"Kung Fu, Martial Arts, Action, Biography, Drama, War",Wilson Yip,106,8.0,59,11.72,22.11
+411,Pink Floyd: The Wall,1982,United Kingdom,"Psychological Drama, Drama, Fantasy, Music",Alan Parker,95,8.0,47,12.0,22.27
+412,The Straight Story,1999,United Kingdom,"Docudrama, Road Trip, Biography, Drama",David Lynch,112,8.0,86,10.0,6.45
+413,I Want to Eat Your Pancreas,2018,Japan,"Anime, Coming-of-Age, Slice of Life, Animation, Drama, Family, Romance","Directors, Jun'ichi Fujise, Tomoyuki Itamura, Masaharu Tomoda, ",109,8.0,,,33.75
+414,Persona,1966,Sweden,"Drama, Thriller",Ingmar Bergman,84,8.0,86,,0.09
+415,The Celebration,1998,Denmark,"Dark Comedy, Drama",Thomas Vinterberg,105,8.0,82,1.3,1.66
+416,Gandhi,1982,United Kingdom,"Docudrama, Epic, Period Drama, Biography, Drama, History",Richard Attenborough,191,8.0,79,22.0,52.77
+417,Mommy,2014,Canada,Drama,Xavier Dolan,139,8.0,74,,13.16
+418,Anatomy of a Murder,1959,United States,"Legal Drama, Drama, Mystery",Otto Preminger,161,8.0,95,,0.0
+419,La dolce vita,1960,Italy,"Comedy, Drama",Federico Fellini,174,8.0,95,,0.22
+420,Wolfwalkers,2020,Ireland,"Coming-of-Age, Dark Fantasy, Fairy Tale, Hand-Drawn Animation, Teen Adventure, Action, Adventure, Animation, Drama, Family","Tomm Moore, Ross Stewart",103,8.0,87,12.0,1.31
+421,Secrets & Lies,1996,United Kingdom,"Comedy, Drama",Mike Leigh,136,8.0,92,4.5,13.42
+422,Nobody Knows,2004,Japan,Drama,Hirokazu Koreeda,141,8.0,88,,2.29
+423,The Legend of 1900,1998,Italy,"Drama, Music, Romance",Giuseppe Tornatore,169,8.0,58,9.0,21.06
+424,Le Samouraï,1967,France,"Crime, Drama, Thriller",Jean-Pierre Melville,105,8.0,90,,0.33
+425,The Tale of the Princess Kaguya,2013,Japan,"Anime, Coming-of-Age, Fairy Tale, Hand-Drawn Animation, Iyashikei, Period Drama, Teen Drama, Teen Fantasy, Tragedy, Animation",Isao Takahata,137,8.0,89,5000.0,24.75
+426,"Spring, Summer, Fall, Winter... And Spring",2003,South Korea,"Drama, Romance",Kim Ki-duk,103,8.0,85,,8.84
+427,Fitzcarraldo,1982,West Germany,"Jungle Adventure, Adventure, Drama",Werner Herzog,158,8.0,,14.0,0.0
+428,Who's Afraid of Virginia Woolf?,1966,United States,"Psychological Drama, Drama",Mike Nichols,131,8.0,75,7.5,28.01
+429,Infernal Affairs,2002,Hong Kong,"Cop Drama, Action, Crime, Drama, Mystery, Thriller","Wai Keung Lau, Alan Mak",101,8.0,75,6.43,8.84
+430,Elite Squad,2007,Brazil,"Cop Drama, Action, Crime, Drama, Thriller",José Padilha,115,8.0,33,4.0,14.76
+431,Underground,1995,Federal Republic of Yugoslavia,"Satire, Comedy, Drama, Fantasy, War",Emir Kusturica,170,8.0,79,14.0,0.18
+432,Song of the Sea,2014,Ireland,"Animal Adventure, Coming-of-Age, Fairy Tale, Hand-Drawn Animation, Quest, Sea Adventure, Adventure, Animation, Drama, Family",Tomm Moore,93,8.0,85,5.3,4.23
+433,A Woman Under the Influence,1974,United States,"Drama, Romance",John Cassavetes,155,8.0,88,,0.03
+434,The 400 Blows,1959,France,"Coming-of-Age, Teen Drama, Tragedy, Crime, Drama",François Truffaut,99,8.0,,,0.19
+435,Persepolis,2007,France,"Adult Animation, Coming-of-Age, Docudrama, Period Drama, Teen Drama, Animation, Biography, Drama, History, War","Vincent Paronnaud, Marjane Satrapi",96,8.0,90,7.3,22.78
+436,The Sea Inside,2004,Spain,"Psychological Drama, Biography, Drama",Alejandro Amenábar,126,8.0,74,10.0,43.73
+437,Out of the Past,1947,United States,"Film Noir, Crime, Drama, Romance, Thriller",Jacques Tourneur,97,8.0,85,,
+438,The Diving Bell and the Butterfly,2007,France,"Medical Drama, Biography, Drama",Julian Schnabel,112,8.0,92,,19.78
+439,Baahubali: The Beginning,2015,India,"Action Epic, Epic, One-Person Army Action, Period Drama, Action, Drama",S.S. Rajamouli,159,8.0,,18.03,24.55
+440,Au Revoir les Enfants,1987,France,"Drama, War",Louis Malle,104,8.0,88,,4.58
+441,Brief Encounter,1945,United Kingdom,"Tragic Romance, Drama, Romance",David Lean,86,8.0,92,0.17,0.09
+442,"Black Cat, White Cat",1998,France,"Comedy, Crime, Romance",Emir Kusturica,127,8.0,73,,0.37
+443,Andrei Rublev,1966,Soviet Union,"Docudrama, Period Drama, Biography, Drama, History",Andrei Tarkovsky,189,8.0,,1.0,0.18
+444,Winter Sleep,2014,Turkey,Drama,Nuri Bilge Ceylan,196,8.0,88,,4.02
+445,Central Station,1998,Brazil,"Road Trip, Drama",Walter Salles,110,8.0,80,2.9,5.97
+446,Dilwale Dulhania Le Jayenge,1995,India,"Drama, Romance",Aditya Chopra,189,8.0,,40.0,0.08
+447,Ivan's Childhood,1962,Soviet Union,"Coming-of-Age, Drama, War","Andrei Tarkovsky, Eduard Abalov",95,8.0,,,0.09
+448,Throne of Blood,1957,Japan,Drama,Akira Kurosawa,110,8.0,,,0.06
+449,The Virgin Spring,1960,Sweden,"Tragedy, Drama",Ingmar Bergman,89,8.0,,,0.01
+450,The Shop Around the Corner,1940,United States,"Holiday Romance, Romantic Comedy, Workplace Drama, Comedy, Drama, Romance",Ernst Lubitsch,99,8.0,96,,0.04
+451,"Quo Vadis, Aida?",2020,Bosnia and Herzegovina,"Drama, History, War",Jasmila Zbanic,101,8.0,97,4.5,0.81
+452,Haider,2014,India,"Action, Crime, Drama, Thriller",Vishal Bhardwaj,160,8.0,,370.0,1.4
+453,Departures,2008,Japan,Drama,Yôjirô Takita,130,8.0,68,,74.24
+454,Sanjuro,1962,Japan,"Samurai, Action, Drama, Thriller",Akira Kurosawa,96,8.0,,,0.06
+455,Sirf Ek Bandaa Kaafi Hai,2023,India,"Crime, Drama, Thriller",Apoorv Singh Karki,132,8.0,,,0.0
+456,Sweet Smell of Success,1957,United States,"Film Noir, Drama",Alexander Mackendrick,96,8.0,100,3.4,0.01
+457,The Exterminating Angel,1962,Mexico,"Dark Comedy, Drama, Fantasy",Luis Buñuel,95,8.0,,,0.0
+458,La Strada,1954,Italy,Drama,Federico Fellini,108,8.0,,,0.04
+459,Kind Hearts and Coronets,1949,United Kingdom,"Dark Comedy, Satire, Comedy, Crime",Robert Hamer,106,8.0,,,0.15
+460,The Wild Pear Tree,2018,Turkey,Drama,Nuri Bilge Ceylan,188,8.0,86,,1.7
+461,G.O.R.A.,2004,Turkey,"Adventure, Comedy, Sci-Fi",Ömer Faruk Sorak,127,8.0,,5.0,20.84
+462,Pink,2016,India,"Crime, Drama, Thriller",Aniruddha Roy Chowdhury,136,8.0,,,0.18
+463,Elite Squad 2: The Enemy Within,2010,Brazil,"Cop Drama, Action, Crime, Drama, Thriller",José Padilha,115,8.0,71,,63.62
+464,"Rome, Open City",1945,Italy,"Drama, Thriller, War",Roberto Rossellini,103,8.0,,,0.02
+465,Brotherhood,2004,South Korea,"Action, Drama, War",Kang Je-kyu,140,8.0,64,12.8,81.41
+466,Winter Light,1963,Sweden,Drama,Ingmar Bergman,81,8.0,,,0.01
+467,M.S. Dhoni: The Untold Story,2016,India,"Biography, Drama, Sport","Mathur Goswami, Neeraj Pandey",184,8.0,,,28.9
+468,The Breath,2009,Turkey,"Action, Drama, Thriller, War",Levent Semerci,128,8.0,,2.0,15.29
+469,Lage Raho Munna Bhai,2006,India,"Buddy Comedy, Comedy, Drama, Romance",Rajkumar Hirani,144,8.0,,120.0,17.9
+470,Andaz Apna Apna,1994,India,"Parody, Slapstick, Action, Comedy, Romance",Rajkumar Santoshi,160,8.0,,,
+471,Special Chabbis,2013,India,"True Crime, Crime, Drama, Thriller",Neeraj Pandey,144,8.0,,,0.65
+472,Vizontele,2001,Turkey,"Comedy, Drama, History","Yilmaz Erdogan, Ömer Faruk Sorak",110,8.0,,2.5,0.97
+473,The Nightmare Before Christmas,1993,United States,"Dark Fantasy, Holiday Animation, Holiday Family, Stop Motion Animation, Supernatural Fantasy, Animation, Family, Fantasy, Holiday, Musical",Henry Selick,76,7.9,82,18.0,107.8
+474,Titanic,1997,United States,"Disaster, Epic, Period Drama, Romantic Epic, Tragedy, Tragic Romance, Drama, Romance",James Cameron,194,7.9,75,200.0,2264.75
+475,Edward Scissorhands,1990,United States,"Dark Fantasy, Dark Romance, Fairy Tale, Drama, Fantasy, Holiday, Romance",Tim Burton,105,7.9,74,20.0,86.02
+476,Shaun of the Dead,2004,United Kingdom,"Buddy Comedy, Dark Comedy, Parody, Zombie Horror, Comedy, Horror",Edgar Wright,99,7.9,76,4.0,31.51
+477,Harry Potter and the Prisoner of Azkaban,2004,United Kingdom,"Sword & Sorcery, Teen Adventure, Teen Fantasy, Adventure, Family, Fantasy, Mystery",Alfonso Cuarón,142,7.9,82,130.0,808.49
+478,Perfect Days,2023,Japan,Drama,Wim Wenders,124,7.9,80,,25.68
+479,True Romance,1993,United States,"Dark Romance, Drug Crime, Crime, Drama, Romance, Thriller",Tony Scott,119,7.9,59,13.0,13.09
+480,The Holdovers,2023,United States,"Holiday Comedy, Comedy, Drama, Holiday",Alexander Payne,133,7.9,82,,45.64
+481,Knives Out,2019,United States,"Cozy Mystery, Satire, Whodunnit, Comedy, Crime, Drama, Mystery, Thriller",Rian Johnson,130,7.9,82,40.0,312.9
+482,Guardians of the Galaxy Vol. 3,2023,United States,"Space Sci-Fi, Superhero, Action, Adventure, Comedy, Sci-Fi",James Gunn,150,7.9,64,250.0,845.56
+483,E.T. the Extra-Terrestrial,1982,United States,"Coming-of-Age, Space Sci-Fi, Adventure, Family, Sci-Fi",Steven Spielberg,115,7.9,92,10.5,797.31
+484,Mulholland Drive,2001,France,"Psychological Drama, Psychological Thriller, Showbiz Drama, Suspense Mystery, Drama, Mystery, Thriller",David Lynch,147,7.9,87,15.0,20.29
+485,Being There,1979,United States,"Satire, Comedy, Drama",Hal Ashby,130,7.9,83,,30.18
+486,Edge of Tomorrow,2014,United States,"Alien Invasion, Dystopian Sci-Fi, Sci-Fi Epic, Time Travel, Action, Adventure, Sci-Fi",Doug Liman,113,7.9,71,178.0,377.04
+487,Boogie Nights,1997,United States,"Period Drama, Showbiz Drama, Drama",Paul Thomas Anderson,155,7.9,86,15.0,43.12
+488,Arrival,2016,United States,"Alien Invasion, Psychological Drama, Sci-Fi Epic, Drama, Mystery, Sci-Fi",Denis Villeneuve,116,7.9,81,47.0,208.94
+489,Avatar,2009,United States,"Adventure Epic, Sci-Fi Epic, Action, Adventure, Fantasy, Sci-Fi",James Cameron,162,7.9,83,237.0,2923.71
+490,Iron Man,2008,United States,"Sci-Fi Epic, Superhero, Action, Adventure, Sci-Fi",Jon Favreau,126,7.9,79,140.0,585.8
+491,Star Trek,2009,United States,"Space Sci-Fi, Time Travel, Action, Adventure, Sci-Fi",J.J. Abrams,127,7.9,82,150.0,385.68
+492,Shrek,2001,United States,"Buddy Comedy, Computer Animation, Fairy Tale, Feel-Good Romance, Parody, Quest, Swashbuckler, Adventure, Animation, Comedy","Andrew Adamson, Vicky Jenson",90,7.9,84,60.0,488.63
+493,Thor: Ragnarok,2017,United States,"Superhero, Action, Adventure, Comedy, Fantasy, Sci-Fi",Taika Waititi,130,7.9,74,180.0,855.3
+494,Zack Snyder's Justice League,2021,United States,"Superhero, Action, Adventure, Fantasy, Sci-Fi",Zack Snyder,242,7.9,54,300.0,
+495,The Perks of Being a Wallflower,2012,United States,"Coming-of-Age, Psychological Drama, Teen Drama, Drama",Stephen Chbosky,103,7.9,67,13.0,33.38
+496,Fantastic Mr. Fox,2009,United States,"Animal Adventure, Caper, Quirky Comedy, Stop Motion Animation, Adventure, Animation, Comedy, Crime, Drama, Family",Wes Anderson,87,7.9,83,40.0,58.09
+497,Jojo Rabbit,2019,Czech Republic,"Coming-of-Age, Dark Comedy, High-Concept Comedy, Period Drama, Quirky Comedy, Satire, Comedy, Drama, War",Taika Waititi,108,7.9,58,14.0,93.69
+498,Almost Famous,2000,United States,"Coming-of-Age, Period Drama, Road Trip, Showbiz Drama, Adventure, Comedy, Drama, Music",Cameron Crowe,122,7.9,90,60.0,47.39
+499,In Bruges,2008,United Kingdom,"Dark Comedy, Comedy, Crime, Drama, Thriller",Martin McDonagh,107,7.9,67,15.0,38.94
+500,Mystic River,2003,United States,"Psychological Thriller, Suspense Mystery, Crime, Drama, Mystery, Thriller",Clint Eastwood,138,7.9,84,25.0,156.6
+501,Bohemian Rhapsody,2018,United Kingdom,"Docudrama, Biography, Drama, Music",Bryan Singer,134,7.9,49,52.0,910.81
+502,Children of Men,2006,United States,"Dystopian Sci-Fi, Epic, Sci-Fi Epic, Action, Drama, Sci-Fi, Thriller",Alfonso Cuarón,109,7.9,84,76.0,70.6
+503,Wonder,2017,United States,"Coming-of-Age, Drama, Family",Stephen Chbosky,113,7.9,66,20.0,315.03
+504,All the President's Men,1976,United States,"Conspiracy Thriller, Political Drama, Political Thriller, Workplace Drama, Drama, History, Thriller",Alan J. Pakula,138,7.9,84,8.5,70.6
+505,A Christmas Story,1983,United States,"Holiday Comedy, Holiday Family, Comedy, Family",Bob Clark,93,7.9,77,3.3,20.79
+506,X-Men: Days of Future Past,2014,United Kingdom,"Superhero, Time Travel, Action, Adventure, Sci-Fi, Thriller",Bryan Singer,132,7.9,75,200.0,746.05
+507,District 9,2009,South Africa,"Alien Invasion, Sci-Fi Epic, Action, Sci-Fi, Thriller",Neill Blomkamp,112,7.9,81,30.0,210.89
+508,This Is Spinal Tap,1984,United States,"Mockumentary, Parody, Satire, Comedy, Music",Rob Reiner,82,7.9,92,2.5,4.74
+509,The Blues Brothers,1980,United States,"Buddy Comedy, Quest, Road Trip, Action, Adventure, Comedy, Crime, Music, Musical",John Landis,133,7.9,60,27.5,115.23
+510,Toy Story 2,1999,United States,"Computer Animation, Quest, Supernatural Fantasy, Urban Adventure, Adventure, Animation, Comedy, Family, Fantasy","John Lasseter, Ash Brannon, Lee Unkrich",92,7.9,88,90.0,497.38
+511,Spartacus,1960,United States,"Adventure Epic, Historical Epic, Sword & Sandal, War Epic, Adventure, Biography, Drama, History, War","Stanley Kubrick, Anthony Mann",197,7.9,87,12.0,1.85
+512,Do the Right Thing,1989,United States,"Tragedy, Comedy, Drama",Spike Lee,120,7.9,93,6.5,37.3
+513,Boyhood,2014,United States,"Coming-of-Age, Drama",Richard Linklater,165,7.9,100,4.0,48.14
+514,Marriage Story,2019,United Kingdom,"Drama, Romance",Noah Baumbach,137,7.9,94,18.6,0.33
+515,Life of Pi,2012,United States,"Adventure Epic, Sea Adventure, Survival, Teen Adventure, Adventure, Drama, Fantasy",Ang Lee,127,7.9,79,120.0,609.02
+516,Dallas Buyers Club,2013,United States,"Docudrama, Medical Drama, Biography, Drama",Jean-Marc Vallée,117,7.9,77,5.0,55.2
+517,Ghost in the Shell,1995,Japan,"Adult Animation, Anime, Artificial Intelligence, Cop Drama, Cyber Thriller, Cyberpunk, Dystopian Sci-Fi, Hand-Drawn Animation, Police Procedural, Psychological Drama",Mamoru Oshii,83,7.9,76,330.0,0.93
+518,"Crouching Tiger, Hidden Dragon",2000,Taiwan,"Action Epic, Adventure Epic, Epic, Fantasy Epic, Martial Arts, Period Drama, Quest, Romantic Epic, Sword & Sorcery, Wuxia",Ang Lee,120,7.9,94,17.0,213.98
+519,A Fistful of Dollars,1964,Italy,"Spaghetti Western, Action, Drama, Western",Sergio Leone,99,7.9,65,0.2,14.52
+520,The Ten Commandments,1956,United States,"Adventure Epic, Desert Adventure, Adventure, Drama, Family, History",Cecil B. DeMille,220,7.9,,13.28,65.5
+521,Arsenic and Old Lace,1944,United States,"Farce, Screwball Comedy, Comedy, Crime, Thriller",Frank Capra,118,7.9,,1.16,
+522,The Adventures of Robin Hood,1938,United States,"Swashbuckler, Action, Adventure, Romance","Michael Curtiz, William Keighley",102,7.9,97,1.9,0.0
+523,Carlito's Way,1993,United States,"Gangster, Crime, Drama, Thriller",Brian De Palma,144,7.9,66,30.0,63.85
+524,"Blood In, Blood Out",1993,United States,"Epic, Tragedy, True Crime, Biography, Crime, Drama",Taylor Hackford,180,7.9,47,35.0,4.5
+525,Doctor Zhivago,1965,Italy,"Romantic Epic, Tragedy, Drama, Romance, War",David Lean,197,7.9,69,11.0,111.93
+526,Before Midnight,2013,United States,"Drama, Romance",Richard Linklater,109,7.9,94,3.0,20.71
+527,Dancer in the Dark,2000,Denmark,"Period Drama, Psychological Drama, Tragedy, Crime, Drama, Musical",Lars von Trier,140,7.9,63,12.8,40.06
+528,Wings of Desire,1987,West Germany,"Drama, Fantasy, Romance",Wim Wenders,128,7.9,79,,3.52
+529,The Raid 2,2014,Indonesia,"Martial Arts, Action, Crime, Thriller",Gareth Evans,150,7.9,71,4.5,6.57
+530,A Streetcar Named Desire,1951,United States,"Tragedy, Drama",Elia Kazan,122,7.9,97,1.8,0.05
+531,The Manchurian Candidate,1962,United States,"Conspiracy Thriller, Political Thriller, Psychological Thriller, Spy, Tragedy, Drama, Thriller",John Frankenheimer,126,7.9,94,2.2,2.76
+532,Solaris,1972,Soviet Union,"Adventure Epic, Psychological Drama, Sci-Fi Epic, Space Sci-Fi, Drama, Mystery, Sci-Fi",Andrei Tarkovsky,167,7.9,93,1.0,0.23
+533,The Wrestler,2008,United States,"Psychological Drama, Tragedy, Drama, Sport",Darren Aronofsky,109,7.9,80,6.0,44.73
+534,Rope,1948,United States,"Crime, Drama, Mystery, Thriller",Alfred Hitchcock,80,7.9,73,1.5,0.01
+535,Once Were Warriors,1994,New Zealand,"Tragedy, Crime, Drama",Lee Tamahori,102,7.9,77,,1.61
+536,In the Heat of the Night,1967,United States,"Suspense Mystery, Drama, Mystery, Thriller",Norman Jewison,110,7.9,76,2.0,0.03
+537,Shoplifters,2018,Japan,"Caper, Psychological Drama, Crime, Drama, Thriller",Hirokazu Koreeda,121,7.9,93,,68.0
+538,Hero,2002,Hong Kong,"Martial Arts, Wuxia, Action, Adventure, Drama",Yimou Zhang,120,7.9,85,31.0,177.4
+539,The Maltese Falcon,1941,United States,"Film Noir, Hard-boiled Detective, Crime, Mystery, Romance",John Huston,100,7.9,97,0.38,0.04
+540,Sing Street,2016,Ireland,"Coming-of-Age, Comedy, Drama, Music, Romance",John Carney,106,7.9,79,,13.62
+541,High Noon,1952,United States,"Classical Western, Drama, Thriller, Western",Fred Zinnemann,85,7.9,89,0.73,0.0
+542,The Big Sleep,1946,United States,"Film Noir, Hard-boiled Detective, Crime, Mystery, Thriller",Howard Hawks,114,7.9,86,0.25,0.05
+543,King Kong,1933,United States,"Dinosaur Adventure, Jungle Adventure, Monster Horror, Urban Adventure, Adventure, Horror","Merian C. Cooper, Ernest B. Schoedsack",100,7.9,92,0.67,0.0
+544,Strangers on a Train,1951,United States,"Film Noir, Psychological Thriller, Crime, Drama, Thriller",Alfred Hitchcock,101,7.9,88,1.2,0.05
+545,Harold and Maude,1971,United States,"Coming-of-Age, Quirky Comedy, Romantic Comedy, Comedy, Drama, Romance",Hal Ashby,91,7.9,62,1.2,0.0
+546,The Sacrifice,1986,Sweden,Drama,Andrei Tarkovsky,149,7.9,85,,0.23
+547,The Wild Bunch,1969,United States,"Western Epic, Action, Adventure, Drama, Western",Sam Peckinpah,145,7.9,98,6.24,0.64
+548,Patton,1970,United States,"War Epic, Biography, Drama, War",Franklin J. Schaffner,172,7.9,86,12.0,61.75
+549,Talk to Her,2002,Spain,"Steamy Romance, Drama, Mystery, Romance",Pedro Almodóvar,112,7.9,86,,64.83
+550,Notorious,1946,United States,"Film Noir, Spy, Drama, Romance, Thriller",Alfred Hitchcock,102,7.9,100,2.0,0.12
+551,Mirror,1975,Soviet Union,"Biography, Drama",Andrei Tarkovsky,107,7.9,82,0.62,0.12
+552,The Artist,2011,France,"Showbiz Drama, Slapstick, Comedy, Drama, Romance",Michel Hazanavicius,100,7.9,89,15.0,133.47
+553,The Leopard,1963,Italy,"Historical Epic, Period Drama, Drama, History",Luchino Visconti,186,7.9,100,2900.0,0.29
+554,The Lion in Winter,1968,United Kingdom,"Period Drama, Biography, Drama, History",Anthony Harvey,134,7.9,,4.0,0.02
+555,Miracle on 34th Street,1947,United States,"Holiday Comedy, Holiday Family, Comedy, Drama, Family, Holiday",George Seaton,96,7.9,88,,0.0
+556,The Killing,1956,United States,"Film Noir, Heist, Crime, Drama, Thriller",Stanley Kubrick,84,7.9,91,0.32,0.0
+557,Togo,2019,United States,"Animal Adventure, Adventure, Biography, Drama, Family, History",Ericson Core,113,7.9,69,,
+558,My Sassy Girl,2001,South Korea,"Romantic Comedy, Comedy, Drama, Romance",Jae-young Kwak,137,7.9,,,0.37
+559,The Hustler,1961,United States,"Drama, Sport",Robert Rossen,134,7.9,90,2.12,
+560,In Cold Blood,1967,United States,"True Crime, Biography, Crime, Drama, History",Richard Brooks,134,7.9,89,3.5,0.0
+561,Harvey,1950,United States,"Screwball Comedy, Comedy, Drama, Fantasy",Henry Koster,104,7.9,,,
+562,Laura,1944,United States,"Film Noir, Drama, Mystery","Otto Preminger, Rouben Mamoulian",88,7.9,,1.02,0.0
+563,Amour,2012,Austria,"Tragedy, Drama",Michael Haneke,127,7.9,95,8.9,29.66
+564,My Name Is Khan,2010,India,"Psychological Drama, Road Trip, Tragedy, Adventure, Drama, Romance",Karan Johar,165,7.9,50,12.0,42.35
+565,Short Term 12,2013,United States,"Psychological Drama, Drama",Destin Daniel Cretton,96,7.9,82,0.4,1.65
+566,The Conformist,1970,Italy,Drama,Bernardo Bertolucci,113,7.9,100,0.75,0.62
+567,A Taxi Driver,2017,South Korea,"Car Action, Action, Drama, History",Hun Jang,137,7.9,69,,86.25
+568,Cat on a Hot Tin Roof,1958,United States,Drama,Richard Brooks,108,7.9,84,3.0,0.0
+569,Head-On,2004,Germany,"Dark Romance, Psychological Drama, Tragedy, Drama, Romance",Fatih Akin,121,7.9,78,,11.07
+570,Stalag 17,1953,United States,"Comedy, Drama, War",Billy Wilder,120,7.9,84,1.66,
+571,Kal Ho Naa Ho,2003,India,"Comedy, Drama, Musical, Romance",Nikkhil Advani,186,7.9,54,,13.21
+572,My Man Godfrey,1936,United States,"Romantic Comedy, Comedy, Drama, Romance",Gregory La Cava,94,7.9,82,0.66,
+573,Nostalgia,1983,Italy,Drama,Andrei Tarkovsky,125,7.9,74,,0.32
+574,In a Lonely Place,1950,United States,"Film Noir, Hard-boiled Detective, Drama, Mystery, Romance, Thriller",Nicholas Ray,94,7.9,,,0.02
+575,The Red Circle,1970,France,"Heist, Crime, Drama, Thriller",Jean-Pierre Melville,140,7.9,92,,0.47
+576,The Thin Man,1934,United States,"Cozy Mystery, Screwball Comedy, Whodunnit, Comedy, Crime, Mystery, Romance",W.S. Van Dyke,91,7.9,86,0.23,
+577,Kagemusha,1980,Japan,"Epic, Historical Epic, Period Drama, Tragedy, War Epic, Drama, History, War",Akira Kurosawa,180,7.9,84,6.0,4.02
+578,3-Iron,2004,South Korea,"Crime, Drama, Romance",Kim Ki-duk,88,7.9,72,1.0,3.4
+579,"4 Months, 3 Weeks and 2 Days",2007,Romania,"Tragedy, Drama",Cristian Mungiu,113,7.9,97,0.59,10.17
+580,Cries and Whispers,1972,Sweden,"Period Drama, Drama",Ingmar Bergman,92,7.9,,0.4,0.04
+581,Lift to the Scaffold,1958,France,"Crime, Drama, Thriller",Louis Malle,91,7.9,94,,0.43
+582,The Way He Looks,2014,Brazil,"Coming-of-Age, Teen Drama, Drama, Romance",Daniel Ribeiro,96,7.9,71,,1.21
+583,Sleuth,1972,United Kingdom,"Mystery, Thriller",Joseph L. Mankiewicz,138,7.9,,,
+584,Mildred Pierce,1945,United States,"Film Noir, Crime, Drama, Mystery, Romance",Michael Curtiz,111,7.9,88,1.45,0.01
+585,About Elly,2009,Iran,"Psychological Drama, Drama, Mystery",Asghar Farhadi,119,7.9,87,,0.88
+586,The Big Heat,1953,United States,"Film Noir, Crime, Thriller",Fritz Lang,89,7.9,,,0.01
+587,Padman,2018,India,"Comedy, Drama",R Balki,140,7.9,,,29.05
+588,Jab We Met,2007,India,"Comedy, Drama, Romance",Imtiaz Ali,138,7.9,,170.0,10.07
+589,No Man's Land,2001,France,"Satire, Comedy, Drama, War",Danis Tanovic,98,7.9,84,2.0,4.86
+590,La Belle et la Bête,1946,France,"Costume Drama, Dark Fantasy, Dark Romance, Fairy Tale, Drama, Fantasy, Romance","Jean Cocteau, René Clément",96,7.9,92,,0.3
+591,Evangelion: 2.0 You Can (Not) Advance,2009,Japan,"Adult Animation, Anime, Mecha, Action, Animation, Drama, Sci-Fi","Masayuki, Kazuya Tsurumaki, Hideaki Anno",112,7.9,46,,41.78
+592,The Lost Weekend,1945,United States,"Film Noir, Drama",Billy Wilder,101,7.9,,1.25,0.0
+593,Gully Boy,2019,India,"Drama, Music, Romance",Zoya Akhtar,154,7.9,65,,28.3
+594,Battleship Potemkin,1925,Soviet Union,"Docudrama, Historical Epic, Period Drama, War Epic, Drama, History, Thriller, War",Sergei Eisenstein,75,7.9,97,,0.06
+595,Nine Queens,2000,Argentina,"Crime, Drama, Thriller",Fabián Bielinsky,114,7.9,80,1.5,12.41
+596,The Return,2003,Russia,Drama,Andrey Zvyagintsev,110,7.9,82,,8.48
+597,Sullivan's Travels,1941,United States,"Satire, Screwball Comedy, Showbiz Drama, Slapstick, Adventure, Comedy, Drama, Romance",Preston Sturges,90,7.9,89,0.69,0.01
+598,Baby,2015,India,"Spy, Action, Crime, Thriller",Neeraj Pandey,159,7.9,,,11.53
+599,The Rules of the Game,1939,France,"Satire, Comedy, Drama",Jean Renoir,110,7.9,99,5.5,0.27
+600,Through a Glass Darkly,1961,Sweden,Drama,Ingmar Bergman,90,7.9,84,,0.01
+601,Airlift,2016,India,"Period Drama, Action, Drama, History",Raja Menon,130,7.9,,4.4,9.32
+602,Super 30,2019,India,"Biography, Drama",Vikas Bahl,154,7.9,,,24.7
+603,Dev.D,2009,India,"Comedy, Drama, Romance",Anurag Kashyap,144,7.9,,60.0,4.05
+604,Badhaai Ho,2018,India,"Comedy, Drama",Amit Ravindernath Sharma,124,7.9,,,26.13
+605,Deadpool & Wolverine,2024,United States,"Buddy Comedy, Dark Comedy, Raunchy Comedy, Satire, Superhero, Action, Adventure, Comedy, Sci-Fi",Shawn Levy,128,7.7,56,200.0,1337.87
+606,The Batman,2022,United States,"Action Epic, Epic, Serial Killer, Superhero, Action, Crime, Drama, Mystery, Thriller",Matt Reeves,176,7.8,72,185.0,772.32
+607,Coraline,2009,United States,"Dark Fantasy, Stop Motion Animation, Supernatural Fantasy, Animation, Drama, Family, Fantasy",Henry Selick,100,7.8,80,60.0,185.86
+608,Ghostbusters,1984,United States,"High-Concept Comedy, Quirky Comedy, Supernatural Fantasy, Action, Comedy, Fantasy, Sci-Fi",Ivan Reitman,105,7.8,71,30.0,296.58
+609,Get Out,2017,United States,"Dark Comedy, Psychological Horror, Psychological Thriller, Supernatural Horror, Suspense Mystery, Horror, Mystery, Thriller",Jordan Peele,104,7.8,85,4.5,255.75
+610,Poor Things,2023,Ireland,"Dark Comedy, Steampunk, Comedy, Drama, Romance, Sci-Fi",Yorgos Lanthimos,141,7.8,88,35.0,117.63
+611,The Gentlemen,2019,United States,"Caper, Dark Comedy, Drug Crime, Gangster, Action, Crime",Guy Ritchie,113,7.8,51,22.0,115.18
+612,Tombstone,1993,United States,"Western Epic, Biography, Drama, History, Western","George P. Cosmatos, Kevin Jarre",130,7.8,50,25.0,56.51
+613,Misery,1990,United States,"Psychological Drama, Psychological Thriller, Drama, Thriller",Rob Reiner,107,7.8,75,20.0,61.28
+614,The Notebook,2004,United States,"Romantic Epic, Drama, Romance",Nick Cassavetes,123,7.8,53,29.0,118.54
+615,Pride & Prejudice,2005,United Kingdom,"Costume Drama, Feel-Good Romance, Period Drama, Romantic Epic, Drama, Romance",Joe Wright,129,7.8,82,28.0,121.62
+616,The Fall,2006,United States,"Adventure, Drama, Fantasy",Tarsem Singh,117,7.8,64,30.0,3.97
+617,Nosferatu: A Symphony of Horror,1922,Germany,"Dark Fantasy, Supernatural Horror, Vampire Horror, Fantasy, Horror",F.W. Murnau,94,7.8,,,0.05
+618,The Hobbit: An Unexpected Journey,2012,New Zealand,"Adventure Epic, Fantasy Epic, Quest, Sword & Sorcery, Adventure, Fantasy",Peter Jackson,169,7.8,58,180.0,1017.11
+619,Everything Everywhere All at Once,2022,United States,"Adventure Epic, Dark Comedy, Martial Arts, Sci-Fi Epic, Action, Adventure, Comedy, Fantasy, Sci-Fi","Daniel Kwan, Daniel Scheinert",139,7.8,81,14.3,143.41
+620,Night of the Living Dead,1968,United States,"B-Horror, Supernatural Horror, Survival, Zombie Horror, Horror, Thriller",George A. Romero,96,7.8,89,0.11,0.24
+621,Little Women,2019,United States,"Coming-of-Age, Costume Drama, Holiday Romance, Period Drama, Teen Drama, Teen Romance, Drama, Romance",Greta Gerwig,135,7.8,91,40.0,218.84
+622,About Time,2013,United States,"Feel-Good Romance, Romantic Comedy, Time Travel, Comedy, Drama, Fantasy, Romance, Sci-Fi",Richard Curtis,123,7.8,55,12.0,87.1
+623,Frankenstein,1931,United States,"Body Horror, Monster Horror, Tragedy, Drama, Horror, Sci-Fi, Thriller",James Whale,70,7.8,91,0.29,0.0
+624,The Breakfast Club,1985,United States,"Coming-of-Age, Teen Comedy, Teen Drama, Comedy, Drama",John Hughes,97,7.8,66,1.0,51.53
+625,Let the Right One In,2008,Sweden,"Coming-of-Age, Dark Fantasy, Dark Romance, Psychological Drama, Psychological Horror, Splatter Horror, Supernatural Fantasy, Supernatural Horror, Teen Romance, Vampire Horror",Tomas Alfredson,114,7.8,82,4.0,11.23
+626,Atonement,2007,United States,"Epic, Period Drama, Romantic Epic, Steamy Romance, Tragic Romance, War Epic, Drama, Mystery, Romance, War",Joe Wright,123,7.8,85,30.0,129.27
+627,Predator,1987,United States,"Jungle Adventure, Monster Horror, One-Person Army Action, Survival, Action, Adventure, Horror, Sci-Fi",John McTiernan,107,7.8,47,15.0,98.27
+628,The Day of the Jackal,1973,United Kingdom,"Political Thriller, Spy, Crime, Drama, Thriller",Fred Zinnemann,143,7.8,80,,
+629,Call Me by Your Name,2017,Brazil,"Coming-of-Age, Steamy Romance, Drama, Romance",Luca Guadagnino,132,7.8,94,4.0,43.37
+630,Bride of Frankenstein,1935,United States,"Body Horror, Monster Horror, Tragedy, Drama, Horror, Sci-Fi",James Whale,75,7.8,95,0.4,0.01
+631,Ferris Bueller's Day Off,1986,United States,"Buddy Comedy, Teen Comedy, Comedy",John Hughes,103,7.8,61,6.0,70.74
+632,Apocalypto,2006,United States,"Jungle Adventure, Action, Adventure, Drama, Thriller",Mel Gibson,139,7.8,68,40.0,120.65
+633,Hot Fuzz,2007,United Kingdom,"Buddy Comedy, Parody, Action, Comedy, Mystery, Thriller",Edgar Wright,121,7.8,81,8.0,80.58
+634,Drive,2011,United States,"Car Action, One-Person Army Action, Action, Drama",Nicolas Winding Refn,100,7.8,79,15.0,79.75
+635,Hidden Figures,2016,United States,"Docudrama, Biography, Drama, History",Theodore Melfi,127,7.8,74,25.0,235.96
+636,The Big Short,2015,United States,"Dark Comedy, Docudrama, Satire, Workplace Drama, Biography, Comedy, Drama, History, Financial Drama",Adam McKay,130,7.8,81,28.0,133.44
+637,Skyfall,2012,United Kingdom,"Globetrotting Adventure, Spy, Action, Adventure, Thriller",Sam Mendes,143,7.8,81,200.0,1108.59
+638,Dunkirk,2017,United Kingdom,"Action Epic, Historical Epic, War Epic, Action, Drama, History, Thriller, War",Christopher Nolan,106,7.8,94,100.0,530.43
+639,The Irishman,2019,United States,"Docudrama, Epic, Gangster, Period Drama, True Crime, Biography, Crime, Drama",Martin Scorsese,209,7.8,94,159.0,0.97
+640,Nightcrawler,2014,United States,"Psychological Drama, Psychological Thriller, Crime, Drama, Thriller",Dan Gilroy,117,7.8,76,8.5,47.43
+641,The Social Network,2010,United States,"Docudrama, Epic, Legal Drama, Biography, Drama",David Fincher,120,7.8,95,40.0,224.93
+642,The Sandlot Kids,1993,United States,"Baseball, Coming-of-Age, Teen Comedy, Comedy, Drama, Family, Sport",David Mickey Evans,101,7.8,55,7.0,34.35
+643,Willy Wonka & the Chocolate Factory,1971,United Kingdom,"Classic Musical, Supernatural Fantasy, Adventure, Comedy, Family, Fantasy, Musical",Mel Stuart,100,7.8,67,3.0,0.67
+644,All Quiet on the Western Front,2022,Germany,"Epic, War Epic, Drama, History, War",Edward Berger,148,7.8,76,,
+645,American Gangster,2007,United States,"Drug Crime, Gangster, True Crime, Biography, Crime, Drama",Ridley Scott,157,7.8,76,100.0,269.76
+646,The Hobbit: The Desolation of Smaug,2013,New Zealand,"Adventure Epic, Fantasy Epic, Quest, Sword & Sorcery, Adventure, Fantasy",Peter Jackson,161,7.8,66,225.0,959.08
+647,Past Lives,2023,United States,"Korean Drama, Drama, Romance",Celine Song,105,7.8,94,12.0,42.54
+648,The Hateful Eight,2015,United States,"Period Drama, Suspense Mystery, Whodunnit, Crime, Drama, Mystery, Thriller, Western",Quentin Tarantino,168,7.8,68,44.0,161.22
+649,The Girl with the Dragon Tattoo,2011,Sweden,"Psychological Drama, Psychological Thriller, Serial Killer, Whodunnit, Crime, Drama, Mystery, Thriller",David Fincher,158,7.8,71,90.0,232.62
+650,Kiki's Delivery Service,1989,Japan,"Anime, Hand-Drawn Animation, Iyashikei, Animation, Family, Fantasy",Hayao Miyazaki,103,7.8,85,800.0,10.4
+651,Training Day,2001,United States,"Cop Drama, Drug Crime, Gangster, Police Procedural, Tragedy, Crime, Drama, Thriller",Antoine Fuqua,122,7.8,71,45.0,104.88
+652,Puss in Boots: The Last Wish,2022,United States,"Animal Adventure, Computer Animation, Fairy Tale, Quest, Swashbuckler, Action, Adventure, Animation, Comedy, Family","Joel Crawford, Januel Mercado",102,7.8,73,90.0,481.76
+653,Manchester by the Sea,2016,United States,"Psychological Drama, Tragedy, Drama",Kenneth Lonergan,137,7.8,96,9.0,78.99
+654,Dawn of the Dead,1978,United States,"Supernatural Horror, Survival, Zombie Horror, Horror, Thriller",George A. Romero,127,7.8,71,0.65,0.16
+655,Society of the Snow,2023,Spain,"Docudrama, Mountain Adventure, Survival, Adventure, Biography, Drama, History, Thriller",J.A. Bayona,144,7.8,72,,0.0
+656,The Curious Case of Benjamin Button,2008,United States,"Epic, Period Drama, Romantic Epic, Drama, Fantasy, Romance",David Fincher,166,7.8,70,150.0,335.8
+657,Mary Poppins,1964,United States,"Classic Musical, Comedy, Family, Fantasy, Musical",Robert Stevenson,139,7.8,88,6.0,103.13
+658,Star Wars: Episode VII - The Force Awakens,2015,United States,"Action Epic, Adventure Epic, Globetrotting Adventure, Quest, Sci-Fi Epic, Space Sci-Fi, Action, Adventure, Sci-Fi",J.J. Abrams,138,7.8,80,245.0,2071.31
+659,Little Miss Sunshine,2006,United States,"Coming-of-Age, Dark Comedy, Quirky Comedy, Road Trip, Comedy, Drama","Jonathan Dayton, Valerie Faris",101,7.8,80,8.0,101.06
+660,Rogue One,2016,United States,"Action Epic, Adventure Epic, Sci-Fi Epic, Space Sci-Fi, Action, Adventure, Sci-Fi",Gareth Edwards,133,7.8,65,200.0,1058.68
+661,Remember the Titans,2000,United States,"Docudrama, Football, Biography, Comedy, Drama, Sport",Boaz Yakin,113,7.8,48,30.0,136.77
+662,Mississippi Burning,1988,United States,"Crime, Drama, Mystery, Thriller",Alan Parker,128,7.8,65,15.0,34.6
+663,Captain America: Civil War,2016,United States,"Superhero, Action, Sci-Fi","Anthony Russo, Joe Russo",147,7.8,75,250.0,1155.05
+664,RRR,2022,India,"Action Epic, Adventure Epic, Epic, Period Drama, Action, Adventure, Drama",S.S. Rajamouli,187,7.8,83,3500.0,166.6
+665,Freaks,1932,United States,"Body Horror, Showbiz Drama, Drama, Horror",Tod Browning,64,7.8,80,0.31,0.0
+666,I Saw the Devil,2010,South Korea,"Serial Killer, Action, Crime, Thriller",Kim Jee-woon,144,7.8,67,,12.97
+667,The Last Samurai,2003,United States,"Action Epic, Period Drama, Samurai, Sword & Sandal, Action, Drama",Edward Zwick,154,7.8,55,140.0,454.63
+668,A Bronx Tale,1993,United States,"Period Drama, True Crime, Crime, Drama",Robert De Niro,121,7.8,80,22.0,17.29
+669,Hannah and Her Sisters,1986,United States,"Comedy, Drama",Woody Allen,107,7.8,90,6.4,40.08
+670,Boyz n the Hood,1991,United States,"Coming-of-Age, Teen Drama, Tragedy, Crime, Drama",John Singleton,112,7.8,76,6.5,57.53
+671,Cast Away,2000,United States,"Survival, Adventure, Drama, Romance",Robert Zemeckis,143,7.8,74,90.0,429.63
+672,The Bourne Identity,2002,United States,"One-Person Army Action, Political Thriller, Psychological Thriller, Spy, Suspense Mystery, Action, Mystery, Thriller",Doug Liman,119,7.8,68,60.0,214.03
+673,Captain Fantastic,2016,United States,"Coming-of-Age, Quirky Comedy, Road Trip, Teen Comedy, Teen Drama, Comedy, Drama",Matt Ross,118,7.8,72,5.0,23.15
+674,The Insider,1999,United States,"Conspiracy Thriller, Docudrama, Legal Thriller, Workplace Drama, Biography, Drama, History, Thriller",Michael Mann,157,7.8,85,90.0,60.29
+675,Paddington 2,2017,France,"Animal Adventure, Adventure, Comedy, Family",Paul King,103,7.8,88,40.0,282.51
+676,Back to the Future Part II,1989,United States,"Adventure Epic, Car Action, Cyberpunk, Dystopian Sci-Fi, High-Concept Comedy, Teen Adventure, Teen Comedy, Time Travel, Adventure, Comedy",Robert Zemeckis,108,7.8,57,40.0,332.5
+677,Big Hero 6,2014,United States,"Computer Animation, Superhero, Action, Adventure, Animation, Comedy, Crime, Family, Sci-Fi","Don Hall, Chris Williams",102,7.8,74,165.0,657.87
+678,Monster,2023,Japan,"Coming-of-Age, Drama, Thriller",Hirokazu Koreeda,127,7.8,79,,20.66
+679,The Fugitive,1993,United States,"Conspiracy Thriller, Action, Crime, Drama, Mystery, Thriller",Andrew Davis,130,7.8,87,44.0,368.88
+680,Moon,2009,United Kingdom,"Psychological Drama, Space Sci-Fi, Drama, Mystery, Sci-Fi",Duncan Jones,97,7.8,67,5.0,9.76
+681,The Untouchables,1987,United States,"Cop Drama, Gangster, Police Procedural, Crime, Drama, Thriller",Brian De Palma,119,7.8,79,25.0,76.27
+682,Midnight Cowboy,1969,United States,Drama,John Schlesinger,113,7.8,79,3.6,44.8
+683,Awakenings,1990,United States,"Medical Drama, Biography, Drama",Penny Marshall,121,7.8,74,31.0,52.1
+684,The Man from Earth,2007,United States,"Drama, Fantasy, Mystery, Sci-Fi",Richard Schenkman,87,7.8,,0.2,
+685,Gaslight,1944,United States,"Dark Romance, Psychological Drama, Psychological Thriller, Suspense Mystery, Crime, Drama, Mystery, Romance, Thriller",George Cukor,114,7.8,78,,0.0
+686,Moonrise Kingdom,2012,United States,"Coming-of-Age, Feel-Good Romance, Quirky Comedy, Romantic Comedy, Teen Romance, Adventure, Comedy, Drama, Family, Fantasy",Wes Anderson,94,7.8,84,16.0,68.27
+687,Ed Wood,1994,United States,"Dark Comedy, Docudrama, Period Drama, Quirky Comedy, Showbiz Drama, Biography, Comedy, Drama",Tim Burton,127,7.8,71,18.0,5.89
+688,Straight Outta Compton,2015,United States,"Docudrama, Showbiz Drama, Biography, Drama, History, Music",F. Gary Gray,147,7.8,72,28.0,201.63
+689,Walk the Line,2005,Germany,"Tragic Romance, Biography, Drama, Music, Romance",James Mangold,136,7.8,72,28.0,186.8
+690,Serenity,2005,United States,"Space Sci-Fi, Action, Adventure, Sci-Fi, Thriller",Joss Whedon,119,7.8,74,39.0,40.45
+691,Close,2022,Belgium,"Teen Drama, Drama",Lukas Dhont,104,7.8,81,,5.22
+692,Brazil,1985,United Kingdom,"Dark Comedy, Dystopian Sci-Fi, Sci-Fi Epic, Steampunk, Drama, Sci-Fi, Thriller",Terry Gilliam,132,7.8,84,15.0,9.95
+693,October Sky,1999,United States,"Coming-of-Age, Docudrama, Period Drama, Teen Drama, Biography, Drama, Family",Joe Johnston,108,7.8,71,25.0,34.7
+694,Thirteen Lives,2022,United Kingdom,"Disaster, Docudrama, Survival, Biography, Drama, Thriller",Ron Howard,147,7.8,66,93.0,
+695,The Girl with the Dragon Tattoo,2009,Sweden,"Serial Killer, Crime, Drama, Mystery, Thriller",Niels Arden Oplev,152,7.8,76,13.0,104.41
+696,Glory,1989,United States,"War Epic, Biography, Drama, History, War",Edward Zwick,122,7.8,78,18.0,26.98
+697,The Fighter,2010,United States,"Boxing, Action, Biography, Drama, Sport",David O. Russell,116,7.8,79,25.0,129.19
+698,Captain Phillips,2013,United States,"Docudrama, True Crime, Action, Biography, Crime, Drama, Thriller",Paul Greengrass,134,7.8,82,55.0,218.79
+699,Isle of Dogs,2018,United Kingdom,"Adult Animation, Stop Motion Animation, Adventure, Animation, Comedy, Drama, Sci-Fi",Wes Anderson,101,7.8,82,,64.66
+700,Hunt for the Wilderpeople,2016,New Zealand,"Buddy Comedy, Coming-of-Age, Quirky Comedy, Survival, Adventure, Comedy, Drama",Taika Waititi,101,7.8,81,,38.56
+701,How to Train Your Dragon 2,2014,United States,"Computer Animation, Teen Fantasy, Action, Adventure, Animation, Comedy, Family, Fantasy",Dean DeBlois,102,7.8,77,145.0,621.54
+702,The Searchers,1956,United States,"Classical Western, Desert Adventure, Quest, Western Epic, Adventure, Drama, Western",John Ford,119,7.8,94,3.75,0.0
+703,The King of Comedy,1982,United States,"Dark Comedy, Comedy, Crime, Drama, Thriller",Martin Scorsese,109,7.8,73,20.0,2.54
+704,Kramer vs. Kramer,1979,United States,Drama,Robert Benton,105,7.8,77,8.0,106.26
+705,Lilya 4-Ever,2002,Sweden,"True Crime, Crime, Drama",Lukas Moodysson,109,7.8,83,,1.01
+706,Charade,1963,United States,"Cozy Mystery, Romantic Comedy, Comedy, Mystery, Romance, Thriller",Stanley Donen,113,7.8,83,3.0,0.18
+707,Cabaret,1972,United States,"Drama, Music, Musical, Romance",Bob Fosse,124,7.8,80,4.6,0.08
+708,The Remains of the Day,1993,United Kingdom,"Period Drama, Drama, Romance",James Ivory,134,7.8,86,15.0,23.24
+709,All That Jazz,1979,United States,"Dark Comedy, Showbiz Drama, Tragedy, Drama, Music, Musical",Bob Fosse,123,7.8,72,12.0,37.82
+710,Deception,2013,Italy,"Crime, Drama, Mystery, Romance, Thriller",Giuseppe Tornatore,131,7.8,49,13.5,20.92
+711,A Prophet,2009,France,"Prison Drama, Crime, Drama",Jacques Audiard,155,7.8,90,13.0,17.87
+712,The Outlaw Josey Wales,1976,United States,"Drama, Western",Clint Eastwood,135,7.8,69,3.7,31.8
+713,Breaking the Waves,1996,Denmark,"Period Drama, Psychological Drama, Tragedy, Drama",Lars von Trier,159,7.8,82,42.0,3.83
+714,The Wind Rises,2013,Japan,"Adult Animation, Anime, Hand-Drawn Animation, Period Drama, Slice of Life, Tragedy, Tragic Romance, Workplace Drama, Animation, Biography",Hayao Miyazaki,126,7.8,83,30.0,136.87
+715,Jujutsu Kaisen 0: The Movie,2021,Japan,"Adult Animation, Anime, Action, Animation, Fantasy",Sunghoo Park,105,7.8,71,,166.76
+716,The World's Fastest Indian,2005,New Zealand,"Extreme Sport, Quest, Biography, Drama, Sport",Roger Donaldson,127,7.8,68,25.0,18.3
+717,The Right Stuff,1983,United States,"Historical Epic, Adventure, Biography, Drama, History",Philip Kaufman,193,7.8,91,27.0,21.19
+718,The Killing Fields,1984,United Kingdom,"Biography, Drama, History, War",Roland Joffé,141,7.8,76,14.4,34.7
+719,The Chaser,2008,South Korea,"True Crime, Action, Crime, Drama, Thriller",Na Hong-jin,125,7.8,64,2.65,36.5
+720,Ninja Scroll,1993,Japan,"Adult Animation, Anime, Dark Fantasy, Samurai, Seinen, Action, Adventure, Animation, Fantasy, Thriller",Yoshiaki Kawajiri,94,7.8,,,0.0
+721,Letters from Iwo Jima,2006,United States,"War Epic, Action, Adventure, Drama, History, War",Clint Eastwood,141,7.8,89,19.0,68.67
+722,Shadow of a Doubt,1943,United States,"Film Noir, Thriller",Alfred Hitchcock,108,7.8,94,,0.0
+723,The White Ribbon,2009,Germany,"Psychological Drama, Psychological Thriller, Drama, Mystery, Thriller",Michael Haneke,144,7.8,84,18.0,19.35
+724,My Left Foot,1989,Ireland,"Biography, Drama",Jim Sheridan,103,7.8,97,0.6,14.74
+725,All About My Mother,1999,Spain,"Feel-Good Romance, Quirky Comedy, Romantic Comedy, Showbiz Drama, Comedy, Drama, Romance",Pedro Almodóvar,101,7.8,87,,67.96
+726,Whisper of the Heart,1995,Japan,"Anime, Coming-of-Age, Hand-Drawn Animation, Iyashikei, Slice of Life, Teen Drama, Teen Romance, Animation, Drama, Family",Yoshifumi Kondô,111,7.8,75,,4.42
+727,Three Colors: Blue,1993,France,"Dark Romance, Psychological Drama, Tragedy, Drama, Music, Mystery, Romance",Krzysztof Kieslowski,94,7.8,87,,1.52
+728,Loving Vincent,2017,Poland,"Adult Animation, Animation, Drama, Mystery","DK Welchman, Hugh Welchman",94,7.8,62,5.0,42.19
+729,Pride,2014,United Kingdom,"Biography, Comedy, Drama, History, Romance",Matthew Warchus,119,7.8,79,,19.01
+730,Stagecoach,1939,United States,"Classical Western, Adventure, Drama, Western",John Ford,96,7.8,93,0.39,
+731,Guess Who's Coming to Dinner,1967,United States,"Comedy, Drama",Stanley Kramer,108,7.8,63,4.0,56.67
+732,Batman: Mask of the Phantasm,1993,United States,"Hand-Drawn Animation, Superhero, Action, Adventure, Animation, Crime, Family, Mystery, Sci-Fi","Directors, Kevin Altieri, Boyd Kirkland, Frank Paur, ",76,7.8,65,6.0,5.86
+733,The Muppet Christmas Carol,1992,United States,"Holiday Comedy, Holiday Family, Comedy, Drama, Family, Fantasy, Holiday, Musical",Brian Henson,85,7.8,64,12.0,33.27
+734,Manhattan,1979,United States,"Comedy, Drama, Romance",Woody Allen,96,7.8,83,9.0,40.19
+735,Once,2006,Ireland,"Drama, Music, Romance",John Carney,86,7.8,90,0.15,20.94
+736,"Aguirre, the Wrath of God",1972,West Germany,"Psychological Drama, Quest, Action, Adventure, Biography, Drama, History",Werner Herzog,95,7.8,,0.37,0.04
+737,The Philadelphia Story,1940,United States,"Romantic Comedy, Screwball Comedy, Comedy, Romance",George Cukor,112,7.8,96,0.94,0.41
+738,East of Eden,1955,United States,Drama,Elia Kazan,118,7.8,72,,0.03
+739,To Have and Have Not,1944,United States,"Dark Comedy, Film Noir, Adventure, Comedy, Romance, Thriller, War",Howard Hawks,100,7.8,90,,0.01
+740,The Lunchbox,2013,India,"Drama, Romance",Ritesh Batra,104,7.8,76,1.0,11.62
+741,Veer Zaara,2004,India,"Drama, Family, Musical, Romance",Yash Chopra,192,7.8,67,7.0,6.89
+742,Cowboy Bebop: The Movie,2001,Japan,"Adult Animation, Anime, Action, Animation, Crime, Drama, Sci-Fi","Directors, Shin'ichirô Watanabe, Tensai Okamura, Hiroyuki Okiura, ",115,7.8,62,,3.02
+743,Amarcord,1973,Italy,"Satire, Comedy, Drama",Federico Fellini,123,7.8,,,0.2
+744,The Umbrellas of Cherbourg,1964,France,"Drama, Musical, Romance",Jacques Demy,91,7.8,86,,0.1
+745,The Chorus,2004,France,"Drama, Music",Christophe Barratier,97,7.8,56,5.5,88.39
+746,You Can't Take It with You,1938,United States,"Screwball Comedy, Slapstick, Comedy, Drama, Romance",Frank Capra,126,7.8,,1.64,
+747,The Discreet Charm of the Bourgeoisie,1972,France,"Satire, Comedy, Drama, Fantasy",Luis Buñuel,102,7.8,93,0.8,0.1
+748,His Girl Friday,1940,United States,"Romantic Comedy, Screwball Comedy, Workplace Drama, Comedy, Drama, Romance",Howard Hawks,92,7.8,,,
+749,Land of Mine,2015,Denmark,"Psychological Drama, Drama, History, War",Martin Zandvliet,100,7.8,75,35.5,3.17
+750,The Asphalt Jungle,1950,United States,"Film Noir, Heist, Crime, Drama, Thriller",John Huston,112,7.8,85,1.23,0.03
+751,"I, Daniel Blake",2016,United Kingdom,"Political Drama, Drama",Ken Loach,100,7.8,78,,15.7
+752,Hiroshima Mon Amour,1959,France,"Psychological Drama, Tragic Romance, Drama, Romance",Alain Resnais,90,7.8,,,0.14
+753,Cléo from 5 to 7,1962,France,"Psychological Drama, Comedy, Drama, Music",Agnès Varda,90,7.8,87,,0.0
+754,Tokyo Godfathers,2003,Japan,"Adult Animation, Anime, Adventure, Animation, Comedy, Drama","Shôgo Furuya, Satoshi Kon",92,7.8,75,,0.46
+755,Playtime,1967,France,"Slapstick, Comedy",Jacques Tati,155,7.8,99,15.0,0.07
+756,Bringing Up Baby,1938,United States,"Screwball Comedy, Comedy",Howard Hawks,102,7.8,91,1.07,0.01
+757,Once Upon a Time in Anatolia,2011,Turkey,"Cop Drama, Police Procedural, Psychological Thriller, Crime, Drama, Thriller",Nuri Bilge Ceylan,157,7.8,82,,2.1
+758,Knockin' on Heaven's Door,1997,Germany,"Action, Comedy, Crime, Drama",Thomas Jahn,87,7.8,,4.3,0.21
+759,Great Expectations,1946,United Kingdom,"Adventure, Drama, Mystery, Romance",David Lean,118,7.8,90,0.35,0.02
+760,Crimes and Misdemeanors,1989,United States,"Satire, Comedy, Drama",Woody Allen,104,7.8,77,19.0,18.25
+761,The Postman,1994,Italy,"Biography, Comedy, Drama, Romance","Michael Radford, Massimo Troisi",108,7.8,81,3.0,21.9
+762,Millennium Actress,2001,Japan,"Adult Animation, Anime, Animation, Drama, Fantasy, Romance","Satoshi Kon, Kô Matsuo",87,7.8,70,,0.26
+763,"Like Father, Like Son",2013,Japan,"Psychological Drama, Drama",Hirokazu Koreeda,121,7.8,73,,37.17
+764,My Life as a Courgette,2016,Switzerland,"Adult Animation, Stop Motion Animation, Animation, Comedy, Drama",Claude Barras,66,7.8,85,6.5,5.87
+765,Vivre Sa Vie,1962,France,"Psychological Drama, Tragedy, Drama",Jean-Luc Godard,80,7.8,,0.06,0.07
+766,Hindi Medium,2017,India,"Comedy, Drama",Saket Chaudhary,132,7.8,,,41.64
+767,A Night at the Opera,1935,United States,"Farce, Satire, Slapstick, Comedy, Music, Musical","Sam Wood, Edmund Goulding",96,7.8,,,0.01
+768,C.R.A.Z.Y.,2005,Canada,"Coming-of-Age, Teen Drama, Comedy, Drama",Jean-Marc Vallée,129,7.8,81,6.5,3.71
+769,Brother,1997,Russia,"Action, Crime, Drama, Thriller",Aleksey Balabanov,96,7.8,,0.01,1.36
+770,Lakshya,2004,India,"Action, Drama, Romance, War",Farhan Akhtar,186,7.8,,300.0,5.86
+771,English Vinglish,2012,India,"Comedy, Drama, Family",Gauri Shinde,134,7.8,,,10.3
+772,Halloween,1978,United States,"B-Horror, Slasher Horror, Teen Horror, Horror, Thriller",John Carpenter,91,7.7,90,0.33,47.17
+773,Zodiac,2007,United States,"Cop Drama, Epic, Police Procedural, Psychological Thriller, Serial Killer, True Crime, Whodunnit, Crime, Drama, Mystery",David Fincher,157,7.7,79,65.0,84.79
+774,The Goonies,1985,United States,"Quest, Teen Adventure, Teen Comedy, Adventure, Comedy, Family",Richard Donner,114,7.7,62,19.0,64.53
+775,Harry Potter and the Goblet of Fire,2005,United Kingdom,"Sword & Sorcery, Teen Adventure, Teen Fantasy, Adventure, Family, Fantasy, Mystery",Mike Newell,157,7.7,81,150.0,897.47
+776,Home Alone,1990,United States,"High-Concept Comedy, Holiday Comedy, Holiday Family, Slapstick, Comedy, Family, Holiday",Chris Columbus,103,7.7,63,18.0,476.68
+777,Wind River,2017,United Kingdom,"Contemporary Western, Cop Drama, Tragedy, Whodunnit, Crime, Drama, Mystery, Thriller, Western",Taylor Sheridan,107,7.7,73,11.0,44.2
+778,The Hangover,2009,United States,"Raunchy Comedy, Comedy",Todd Phillips,100,7.7,73,35.0,469.33
+779,Godzilla Minus One,2023,Japan,"Action Epic, Adventure Epic, Dinosaur Adventure, Epic, Kaiju, Monster Horror, Period Drama, Sci-Fi Epic, Supernatural Horror, Tragedy",Takashi Yamazaki,124,7.7,81,15.0,113.66
+780,Mission: Impossible - Dead Reckoning Part One,2023,United States,"Action Epic, Adventure Epic, Spy, Action, Adventure, Thriller",Christopher McQuarrie,163,7.7,81,291.0,570.62
+781,Blue Velvet,1986,United States,"Erotic Thriller, Psychological Thriller, Crime, Drama, Mystery, Thriller",David Lynch,120,7.7,75,6.0,8.64
+782,Harry Potter and the Deathly Hallows: Part 1,2010,United Kingdom,"Dark Fantasy, Supernatural Fantasy, Sword & Sorcery, Teen Adventure, Teen Fantasy, Adventure, Family, Fantasy, Mystery",David Yates,146,7.7,65,125.0,960.9
+783,Anatomy of a Fall,2023,France,"Legal Drama, Legal Thriller, Psychological Drama, Psychological Thriller, Crime, Drama, Thriller",Justine Triet,151,7.7,86,6.2,36.05
+784,Kingsman: The Secret Service,2014,United Kingdom,"Gun Fu, Spy, Action, Adventure, Comedy, Thriller",Matthew Vaughn,129,7.7,60,81.0,414.35
+785,Brokeback Mountain,2005,Canada,"Contemporary Western, Steamy Romance, Tragedy, Tragic Romance, Drama, Romance",Ang Lee,134,7.7,87,14.0,178.06
+786,Sicario,2015,United States,"Contemporary Western, Cop Drama, Drug Crime, Action, Crime, Drama, Mystery, Thriller",Denis Villeneuve,121,7.7,82,30.0,85.0
+787,Blue Is the Warmest Colour,2013,France,"Coming-of-Age, Steamy Romance, Drama, Romance",Abdellatif Kechiche,180,7.7,90,4.0,19.8
+788,500 Days of Summer,2009,United States,"Quirky Comedy, Romantic Comedy, Comedy, Drama, Romance",Marc Webb,95,7.7,76,7.5,60.8
+789,The Banshees of Inisherin,2022,Ireland,"Dark Comedy, Period Drama, Psychological Drama, Tragedy, Comedy, Drama",Martin McDonagh,114,7.7,87,,50.25
+790,Evil Dead II,1987,United States,"Dark Comedy, Slapstick, Splatter Horror, Supernatural Horror, Zombie Horror, Comedy, Horror",Sam Raimi,84,7.7,72,3.6,5.93
+791,The Count of Monte Cristo,2002,Ireland,"Period Drama, Swashbuckler, Action, Adventure, Drama, Thriller",Kevin Reynolds,131,7.7,61,35.0,75.4
+792,A Few Good Men,1992,United States,"Legal Drama, Legal Thriller, Drama, Thriller",Rob Reiner,138,7.7,62,41.0,243.24
+793,Ex Machina,2014,United Kingdom,"Artificial Intelligence, Psychological Thriller, Drama, Sci-Fi, Thriller",Alex Garland,108,7.7,78,15.0,37.39
+794,The Promised Land,2023,Denmark,"Epic, Historical Epic, Action, Biography, Drama, History",Nikolaj Arcel,127,7.7,77,8.5,2.25
+795,The Game,1997,United States,"Conspiracy Thriller, Psychological Drama, Psychological Thriller, Suspense Mystery, Tragedy, Drama, Mystery, Thriller",David Fincher,129,7.7,63,50.0,109.42
+796,Black Hawk Down,2001,United States,"Action Epic, Docudrama, Epic, Historical Epic, Tragedy, War Epic, Action, Drama, History, War",Ridley Scott,144,7.7,74,92.0,172.99
+797,Airplane!,1980,United States,"Dark Comedy, Farce, Parody, Slapstick, Comedy","Jim Abrahams, David Zucker, Jerry Zucker",88,7.7,78,3.5,83.46
+798,Ocean's Eleven,2001,United States,"Caper, Heist, Crime, Thriller",Steven Soderbergh,116,7.7,74,85.0,450.72
+799,The Conversation,1974,United States,"Conspiracy Thriller, Psychological Drama, Psychological Thriller, Drama, Mystery, Thriller",Francis Ford Coppola,113,7.7,88,1.6,4.86
+800,Man on Fire,2004,Switzerland,"Tragedy, Action, Crime, Drama, Thriller",Tony Scott,146,7.7,47,70.0,130.83
+801,Tangled,2010,United States,"Computer Animation, Fairy Tale, Feel-Good Romance, Pop Musical, Teen Adventure, Teen Comedy, Teen Fantasy, Teen Romance, Adventure, Animation","Nathan Greno, Byron Howard",100,7.7,71,260.0,591.81
+802,Goldfinger,1964,United Kingdom,"Spy, Action, Adventure, Thriller",Guy Hamilton,110,7.7,87,3.0,51.21
+803,Lost in Translation,2003,United States,"Coming-of-Age, Comedy, Drama",Sofia Coppola,102,7.7,91,4.0,118.69
+804,Y tu mamá también,2001,Mexico,"Coming-of-Age, Road Trip, Drama",Alfonso Cuarón,106,7.7,89,2.0,33.62
+805,When Harry Met Sally,1989,United States,"Feel-Good Romance, Romantic Comedy, Comedy, Drama, Romance",Rob Reiner,95,7.7,76,16.0,93.27
+806,Who Framed Roger Rabbit,1988,United States,"Adult Animation, Buddy Comedy, Hand-Drawn Animation, High-Concept Comedy, Parody, Slapstick, Adventure, Animation, Comedy, Crime",Robert Zemeckis,104,7.7,83,70.0,329.8
+807,Taken,2008,France,"One-Person Army Action, Action, Crime, Thriller",Pierre Morel,90,7.7,51,25.0,226.84
+808,X-Men: First Class,2011,United States,"Superhero, Action, Sci-Fi",Matthew Vaughn,131,7.7,65,160.0,352.62
+809,Deliverance,1972,United States,"Psychological Thriller, Survival, Adventure, Drama, Thriller",John Boorman,109,7.7,80,2.0,0.0
+810,The Worst Person in the World,2021,Norway,"Coming-of-Age, Romantic Comedy, Comedy, Drama, Romance",Joachim Trier,128,7.7,91,5.0,12.69
+811,"O Brother, Where Art Thou?",2000,United Kingdom,"Adventure Epic, Caper, Dark Comedy, Period Drama, Quest, Road Trip, Satire, Comedy, Crime, Drama","Joel Coen, Ethan Coen",107,7.7,69,26.0,71.87
+812,Mission: Impossible - Fallout,2018,United States,"Action Epic, Globetrotting Adventure, Spy, Action, Adventure, Thriller",Christopher McQuarrie,147,7.7,87,178.0,791.66
+813,Silver Linings Playbook,2012,United States,"Psychological Drama, Comedy, Drama, Romance",David O. Russell,122,7.7,81,21.0,236.41
+814,Apollo 13,1995,United States,"Survival, Adventure, Drama, History",Ron Howard,140,7.7,78,52.0,355.24
+815,Birdman or (The Unexpected Virtue of Ignorance),2014,United States,"Dark Comedy, Satire, Showbiz Drama, Workplace Drama, Comedy, Drama",Alejandro G. Iñárritu,119,7.7,87,18.0,103.22
+816,The Boy in the Striped Pyjamas,2008,United Kingdom,"Prison Drama, Tragedy, Drama, War",Mark Herman,94,7.7,55,12.5,40.42
+817,Blazing Saddles,1974,United States,"Farce, Parody, Slapstick, Comedy, Western",Mel Brooks,93,7.7,73,2.6,119.62
+818,Sense and Sensibility,1995,United Kingdom,"Costume Drama, Period Drama, Romantic Comedy, Drama, Romance",Ang Lee,136,7.7,84,16.0,134.58
+819,Captain America: The Winter Soldier,2014,United States,"Conspiracy Thriller, Political Thriller, Superhero, Urban Adventure, Action, Adventure, Sci-Fi, Thriller","Anthony Russo, Joe Russo",136,7.7,70,170.0,714.42
+820,What's Eating Gilbert Grape,1993,United States,"Coming-of-Age, Teen Drama, Tragedy, Drama",Lasse Hallström,118,7.7,73,11.0,10.03
+821,Primal Fear,1996,United States,"Legal Thriller, Crime, Drama, Mystery, Thriller",Gregory Hoblit,129,7.7,47,30.0,102.62
+822,First Blood,1982,United States,"One-Person Army Action, Action, Adventure, Thriller",Ted Kotcheff,93,7.7,61,15.0,125.21
+823,Gravity,2013,United Kingdom,"Disaster, Space Sci-Fi, Survival, Drama, Sci-Fi, Thriller",Alfonso Cuarón,91,7.7,96,100.0,773.03
+824,As Good as It Gets,1997,United States,"Romantic Comedy, Comedy, Drama, Romance",James L. Brooks,139,7.7,67,50.0,314.18
+825,Dirty Harry,1971,United States,"Cop Drama, Action, Crime, Thriller","Don Siegel, Clint Eastwood",102,7.7,87,4.0,35.99
+826,Malcolm X,1992,United States,"Epic, Political Drama, Biography, Drama, History",Spike Lee,202,7.7,73,33.0,48.17
+827,Crash,2004,United States,"Tragedy, Crime, Drama, Thriller",Paul Haggis,112,7.7,66,6.5,98.41
+828,Wreck-It Ralph,2012,United States,"Buddy Comedy, Computer Animation, High-Concept Comedy, Motorsport, Quest, Urban Adventure, Adventure, Animation, Comedy, Family",Rich Moore,101,7.7,72,165.0,471.22
+829,Argo,2012,United Kingdom,"Political Drama, Political Thriller, Biography, Drama, History, Thriller",Ben Affleck,120,7.7,86,44.5,232.33
+830,Happiness,1998,United States,"Dark Comedy, Psychological Drama, Satire, Comedy, Drama",Todd Solondz,134,7.7,81,2.2,2.98
+831,Another Round,2020,Denmark,"Dark Comedy, Psychological Drama, Drama",Thomas Vinterberg,117,7.7,79,,12.75
+832,The Holy Mountain,1973,Mexico,"Adventure, Drama, Fantasy",Alejandro Jodorowsky,114,7.7,76,0.75,0.11
+833,The Theory of Everything,2014,United Kingdom,"Medical Drama, Biography, Drama, Romance",James Marsh,123,7.7,71,15.0,123.73
+834,Naked,1993,United Kingdom,"Dark Comedy, Comedy, Drama",Mike Leigh,131,7.7,85,,1.8
+835,Gattaca,1997,United States,"Dystopian Sci-Fi, Drama, Sci-Fi, Thriller",Andrew Niccol,106,7.7,64,36.0,12.53
+836,Mulan,1998,United States,"Coming-of-Age, Hand-Drawn Animation, Martial Arts, Period Drama, Pop Musical, Adventure, Animation, Comedy, Family, Fantasy","Tony Bancroft, Barry Cook",87,7.7,72,90.0,304.32
+837,The Fault in Our Stars,2014,United States,"Coming-of-Age, Teen Drama, Teen Romance, Tragedy, Drama, Romance",Josh Boone,126,7.7,69,12.0,307.17
+838,Being John Malkovich,1999,United States,"Body Swap Comedy, Psychological Drama, Satire, Showbiz Drama, Supernatural Fantasy, Comedy, Drama, Fantasy",Spike Jonze,113,7.7,90,13.0,23.11
+839,Mr. Nobody,2009,Belgium,"Dark Romance, Drama, Fantasy, Romance, Sci-Fi",Jaco Van Dormael,141,7.7,63,47.0,3.57
+840,Road to Perdition,2002,United States,"Epic, Gangster, Period Drama, Psychological Drama, Psychological Thriller, Road Trip, Crime, Drama, Thriller",Sam Mendes,117,7.7,72,80.0,181.0
+841,Flipped,2010,United States,"Feel-Good Romance, Comedy, Drama, Romance",Rob Reiner,90,7.7,45,14.0,4.32
+842,Star Trek Into Darkness,2013,United States,"Space Sci-Fi, Action, Adventure, Sci-Fi",J.J. Abrams,132,7.7,72,190.0,467.37
+843,Lucky Number Slevin,2006,United Kingdom,"Crime, Drama, Thriller",Paul McGuigan,110,7.7,53,27.0,56.31
+844,The Lego Movie,2014,United States,"Computer Animation, Dystopian Sci-Fi, Globetrotting Adventure, Quest, Quirky Comedy, Satire, Slapstick, Stop Motion Animation, Action, Adventure","Phil Lord, Christopher Miller",100,7.7,83,60.0,470.76
+845,Fried Green Tomatoes at the Whistle Stop Cafe,1991,United States,"Dark Comedy, Period Drama, Drama",Jon Avnet,130,7.7,64,11.0,119.42
+846,The Vanishing,1988,Netherlands,"Psychological Thriller, Mystery, Thriller",George Sluizer,107,7.7,,,0.08
+847,The Name of the Rose,1986,West Germany,"Period Drama, Whodunnit, Drama, Mystery, Thriller",Jean-Jacques Annaud,130,7.7,54,30000.0,7.15
+848,Philadelphia,1993,United States,"Legal Drama, Drama",Jonathan Demme,125,7.7,66,26.0,206.68
+849,Kubo and the Two Strings,2016,United Kingdom,"Adventure Epic, Fantasy Epic, Quest, Samurai, Stop Motion Animation, Sword & Sorcery, Action, Adventure, Animation, Family",Travis Knight,101,7.7,84,60.0,76.25
+850,The Bourne Supremacy,2004,United States,"One-Person Army Action, Spy, Action, Mystery, Thriller",Paul Greengrass,108,7.7,73,75.0,290.84
+851,Empire of the Sun,1987,United States,"Coming-of-Age, Drama, War",Steven Spielberg,153,7.7,62,35.0,22.24
+852,Cape Fear,1962,United States,"Psychological Thriller, Drama, Thriller",J. Lee Thompson,106,7.7,76,3.0,
+853,Bonnie and Clyde,1967,United States,"Caper, Tragedy, True Crime, Action, Biography, Crime, Drama",Arthur Penn,111,7.7,86,2.5,0.0
+854,Donnie Brasco,1997,United States,"Gangster, True Crime, Biography, Crime, Drama",Mike Newell,127,7.7,77,35.0,124.91
+855,Glengarry Glen Ross,1992,United States,"Workplace Drama, Crime, Drama, Mystery, Financial Drama",James Foley,100,7.7,84,12.5,10.73
+856,Roma,2018,Mexico,Drama,Alfonso Cuarón,135,7.7,96,,1.14
+857,Red River,1948,United States,"Classical Western, Western Epic, Drama, Western","Howard Hawks, Arthur Rosson",133,7.7,96,3.0,0.01
+858,The Trial of the Chicago 7,2020,United States,"Docudrama, Legal Drama, Political Drama, Drama, History, Thriller",Aaron Sorkin,129,7.7,76,35.0,
+859,Changeling,2008,United States,"True Crime, Biography, Crime, Drama, History, Mystery, Thriller",Clint Eastwood,141,7.7,63,55.0,113.4
+860,The French Connection,1971,United States,"Cop Drama, Drug Crime, Police Procedural, Action, Crime, Drama, Thriller",William Friedkin,104,7.7,94,1.8,51.7
+861,The Color Purple,1985,United States,"Period Drama, Drama",Steven Spielberg,154,7.7,78,15.0,98.47
+862,Billy Elliot,2000,United Kingdom,"Coming-of-Age, Period Drama, Showbiz Drama, Drama, Music",Stephen Daldry,110,7.7,74,5.0,109.28
+863,The Magnificent Seven,1960,United States,"Classical Western, Action, Adventure, Drama, Western",John Sturges,128,7.7,74,2.0,0.0
+864,The Dirty Dozen,1967,United Kingdom,"Action, Adventure, War",Robert Aldrich,150,7.7,73,5.4,
+865,Adaptation.,2002,United States,"Dark Comedy, High-Concept Comedy, Psychological Drama, Satire, Showbiz Drama, Comedy, Drama",Spike Jonze,115,7.7,83,19.0,32.8
+866,Kung Fu Hustle,2004,Hong Kong,"Kung Fu, Martial Arts, Parody, Slapstick, Wuxia, Action, Comedy, Fantasy",Stephen Chow,99,7.7,78,20.0,104.88
+867,This Is England,2006,United Kingdom,"Crime, Drama",Shane Meadows,101,7.7,86,1.5,8.48
+868,Sound of Metal,2019,United States,"Tragedy, Drama, Music",Darius Marder,120,7.7,82,5.4,0.52
+869,A Man Called Ove,2015,Sweden,"Comedy, Drama, Romance",Hannes Holm,116,7.7,70,4.0,30.73
+870,Invasion of the Body Snatchers,1956,United States,"Alien Invasion, Body Horror, Drama, Horror, Sci-Fi",Don Siegel,80,7.7,92,0.42,0.0
+871,Ordinary People,1980,United States,"Psychological Drama, Drama",Robert Redford,124,7.7,86,6.0,54.77
+872,Days of Heaven,1978,United States,"Drama, Romance",Terrence Malick,94,7.7,94,3.0,3.49
+873,Serpico,1973,Italy,"Cop Drama, Docudrama, Police Procedural, True Crime, Biography, Crime, Drama, Thriller",Sidney Lumet,130,7.7,83,3.0,29.86
+874,The Day the Earth Stood Still,1951,United States,"Drama, Sci-Fi",Robert Wise,92,7.7,83,1.2,0.0
+875,Detachment,2011,United States,"Psychological Drama, Drama",Tony Kaye,98,7.7,52,,1.69
+876,The Great Beauty,2013,Italy,Drama,Paolo Sorrentino,141,7.7,86,9.2,25.37
+877,The Innocents,1961,United Kingdom,"Psychological Horror, Supernatural Horror, Drama, Horror",Jack Clayton,100,7.7,88,0.43,0.03
+878,Never Look Away,2018,Germany,"Biography, Drama, Romance, Thriller, War",Florian Henckel von Donnersmarck,189,7.7,68,18.0,6.19
+879,Clerks,1994,United States,"Satire, Comedy",Kevin Smith,92,7.7,70,0.03,3.15
+880,Fantasia,1940,United States,"Classic Musical, Hand-Drawn Animation, Animation, Family, Fantasy, Music, Musical","Directors, James Algar, Samuel Armstrong, Ford Beebe Jr., ",124,7.7,96,2.28,76.41
+881,Ray,2004,United States,"Tragedy, Biography, Drama, Music",Taylor Hackford,152,7.7,73,40.0,123.97
+882,Wait Until Dark,1967,United States,"Psychological Thriller, Thriller",Terence Young,108,7.7,81,3.0,
+883,Miller's Crossing,1990,United States,"Gangster, Period Drama, Tragedy, Crime, Drama, Thriller","Joel Coen, Ethan Coen",115,7.7,66,14.0,5.08
+884,My Fair Lady,1964,United States,"Classic Musical, Drama, Family, Musical, Romance",George Cukor,170,7.7,95,17.0,72.68
+885,Paprika,2006,Japan,"Adult Animation, Anime, Animation, Drama, Fantasy, Mystery, Sci-Fi, Thriller",Satoshi Kon,90,7.7,81,300.0,0.96
+886,Star Trek II: The Wrath of Khan,1982,United States,"Space Sci-Fi, Action, Adventure, Sci-Fi",Nicholas Meyer,113,7.7,68,11.2,79.82
+887,"South Park: Bigger, Longer & Uncut",1999,United States,"Adult Animation, Dark Comedy, Dark Fantasy, Farce, Mountain Adventure, Parody, Quest, Raunchy Comedy, Satire, Animation",Trey Parker,81,7.7,73,21.0,83.14
+888,Finding Neverland,2004,United States,"Biography, Drama, Family",Marc Forster,106,7.7,67,25.0,116.65
+889,Sorcerer,1977,United States,"Jungle Adventure, Road Trip, Adventure, Drama, Thriller",William Friedkin,121,7.7,68,22.0,0.01
+890,The Last Emperor,1987,China,"Docudrama, Historical Epic, Period Drama, Biography, Drama, History",Bernardo Bertolucci,163,7.7,76,23.0,43.99
+891,Hamlet,1996,United Kingdom,"Tragedy, Drama",Kenneth Branagh,242,7.7,,18.0,6.3
+892,Open Your Eyes,1997,Spain,"Psychological Thriller, Suspense Mystery, Drama, Mystery, Sci-Fi, Thriller",Alejandro Amenábar,119,7.7,,370.0,0.38
+893,Zulu,1964,United Kingdom,"War Epic, Drama, History, War",Cy Endfield,138,7.7,77,1.72,
+894,Beasts of No Nation,2015,United States,"Drama, War",Cary Joji Fukunaga,137,7.7,79,6.0,0.09
+895,Black Book,2006,Netherlands,"Spy, Drama, Thriller, War",Paul Verhoeven,145,7.7,71,21.0,26.77
+896,Mother,2009,South Korea,"Psychological Drama, Psychological Thriller, Suspense Mystery, Tragedy, Whodunnit, Crime, Drama, Mystery, Thriller",Bong Joon Ho,129,7.7,79,5.0,17.27
+897,The Quiet Man,1952,United States,"Comedy, Drama, Romance",John Ford,129,7.7,85,1.75,
+898,The Verdict,1982,United States,"Legal Drama, Drama",Sidney Lumet,129,7.7,77,16.0,53.99
+899,The Man from Nowhere,2010,South Korea,"Gun Fu, Action, Crime, Drama, Thriller",Lee Jeong-beom,119,7.7,,,44.72
+900,A Man for All Seasons,1966,United Kingdom,"Costume Drama, Period Drama, Biography, Drama, History",Fred Zinnemann,120,7.7,72,2.0,
+901,The Longest Day,1962,United States,"Historical Epic, War Epic, Action, Drama, History, War","Directors, Ken Annakin, Andrew Marton, Gerd Oswald, ",178,7.7,75,10.0,
+902,Badlands,1973,United States,"True Crime, Action, Crime, Drama",Terrence Malick,94,7.7,94,0.45,0.05
+903,Good Bye Lenin!,2003,Germany,"Satire, Comedy, Drama, Romance",Wolfgang Becker,121,7.7,68,4.8,79.32
+904,Me and Earl and the Dying Girl,2015,United States,"Dark Comedy, Comedy, Drama",Alfonso Gomez-Rejon,105,7.7,74,8.0,9.07
+905,The Magdalene Sisters,2002,United Kingdom,Drama,Peter Mullan,114,7.7,83,,21.11
+906,Fantastic Planet,1973,France,"Adult Animation, Animation, Sci-Fi",René Laloux,72,7.7,73,,0.0
+907,Perfect Strangers,2016,Italy,"Comedy, Drama",Paolo Genovese,96,7.7,,,32.21
+908,Night on Earth,1991,United Kingdom,"Dark Comedy, Quirky Comedy, Comedy, Drama",Jim Jarmusch,129,7.7,68,3.5,2.11
+909,Porco Rosso,1992,Japan,"Anime, Body Swap Comedy, Hand-Drawn Animation, Adventure, Animation, Comedy, Fantasy",Hayao Miyazaki,94,7.7,83,,1.46
+910,Nebraska,2013,United States,"Dark Comedy, Road Trip, Drama",Alexander Payne,115,7.7,86,12.0,27.68
+911,Waking Life,2001,United States,"Animation, Drama, Fantasy",Richard Linklater,99,7.7,85,,3.18
+912,How Green Was My Valley,1941,United States,"Drama, Family",John Ford,118,7.7,88,1.25,0.0
+913,Black Narcissus,1947,United Kingdom,Drama,"Michael Powell, Emeric Pressburger",101,7.7,86,0.28,0.17
+914,The African Queen,1951,United Kingdom,"Jungle Adventure, Adventure, Drama, Romance, War",John Huston,105,7.7,91,1.0,0.05
+915,Breathless,1960,France,"Caper, Crime, Drama",Jean-Luc Godard,90,7.7,,0.4,0.59
+916,The Lady Vanishes,1938,United Kingdom,"Psychological Thriller, Spy, Mystery, Thriller",Alfred Hitchcock,96,7.7,98,,0.04
+917,My Darling Clementine,1946,United States,"Classical Western, Drama, Romance, Western",John Ford,97,7.7,,2.0,0.02
+918,The Man Who Would Be King,1975,United Kingdom,"Adventure, Drama, War",John Huston,129,7.7,91,8.0,0.01
+919,Dreams,1990,Japan,"Costume Drama, Dark Fantasy, Period Drama, Psychological Drama, Supernatural Fantasy, Drama, Fantasy","Akira Kurosawa, Ishirô Honda",119,7.7,,12.0,2.97
+920,Das Experiment,2001,Germany,"Psychological Drama, Psychological Thriller, Drama, Thriller",Oliver Hirschbiegel,120,7.7,59,,13.78
+921,Confessions,2010,Japan,"Psychological Thriller, Drama, Thriller",Tetsuya Nakashima,106,7.7,,,45.2
+922,The Killer,1989,Hong Kong,"Gun Fu, Action, Crime, Drama, Thriller",John Woo,111,7.7,82,,2.34
+923,The Double Life of Véronique,1991,France,"Psychological Drama, Drama, Fantasy, Music, Mystery, Romance",Krzysztof Kieslowski,98,7.7,86,,2.18
+924,Scarface,1932,United States,"Film Noir, Gangster, Action, Crime, Drama, Thriller","Howard Hawks, Richard Rosson",93,7.7,90,,1.31
+925,Taste of Cherry,1997,Iran,Drama,Abbas Kiarostami,95,7.7,80,,0.01
+926,The Motorcycle Diaries,2004,United Kingdom,"Road Trip, Adventure, Biography, Drama",Walter Salles,126,7.7,75,,57.66
+927,Hard Boiled,1992,Hong Kong,"Gun Fu, Action, Crime, Thriller",John Woo,128,7.7,,4.5,0.0
+928,The Breadwinner,2017,Ireland,"Animation, Drama, Family, War",Nora Twomey,94,7.7,78,,2.79
+929,Hedwig and the Angry Inch,2001,Canada,"Parody, Rock Musical, Satire, Comedy, Drama, Music, Musical",John Cameron Mitchell,95,7.7,85,6.0,3.66
+930,Down by Law,1986,West Germany,"Quirky Comedy, Comedy, Crime, Drama",Jim Jarmusch,107,7.7,75,1.1,1.53
+931,Evil,2003,Sweden,"Psychological Drama, Drama",Mikael Håfström,113,7.7,61,22.0,0.53
+932,Key Largo,1948,United States,"Film Noir, Action, Crime, Drama, Thriller",John Huston,100,7.7,,,9.52
+933,The Salesman,2016,Iran,"Drama, Thriller",Asghar Farhadi,124,7.7,85,,6.95
+934,Joint Security Area,2000,South Korea,"Action, Drama, Thriller, War",Park Chan-wook,110,7.7,58,,0.12
+935,The Broken Circle Breakdown,2012,Belgium,"Drama, Music, Romance",Felix van Groeningen,111,7.7,70,,6.04
+936,L'Avventura,1960,Italy,"Drama, Mystery, Romance",Michelangelo Antonioni,144,7.7,,,0.0
+937,After the Wedding,2006,Denmark,Drama,Susanne Bier,120,7.7,78,,11.63
+938,The Triplets of Belleville,2003,France,"Adventure, Animation, Comedy, Drama, Music, Sport",Sylvain Chomet,80,7.7,91,9.5,14.78
+939,The Girl Who Leapt Through Time,2006,Japan,"Anime, Time Travel, Adventure, Animation, Comedy, Drama, Family, Fantasy, Mystery, Romance",Mamoru Hosoda,98,7.7,66,,0.87
+940,Adam's Apples,2005,Denmark,"Dark Comedy, Comedy, Crime, Drama",Anders Thomas Jensen,94,7.7,51,,2.42
+941,Jules and Jim,1962,France,"Period Drama, Psychological Drama, Tragic Romance, Drama, Romance",François Truffaut,105,7.7,97,,0.49
+942,The Purple Rose of Cairo,1985,United States,"Satire, Tragedy, Comedy, Fantasy, Romance",Woody Allen,82,7.7,75,15.0,10.63
+943,Duck Soup,1933,United States,"Farce, Satire, Slapstick, Comedy, Musical",Leo McCarey,69,7.7,93,,0.11
+944,The Edge of Heaven,2007,Germany,"Psychological Drama, Drama",Fatih Akin,122,7.7,85,,17.8
+945,The Past,2013,France,"Drama, Mystery",Asghar Farhadi,130,7.7,85,11.0,12.67
+946,Zelig,1983,United States,"Satire, Comedy",Woody Allen,79,7.7,,,11.8
+947,Vicky Donor,2012,India,"Comedy, Romance",Shoojit Sircar,126,7.7,,,6.46
+948,Harry Potter and the Philosopher's Stone,2001,United Kingdom,"Teen Fantasy, Adventure, Family, Fantasy, Holiday",Chris Columbus,152,7.6,65,125.0,1026.41
+949,Once Upon a Time... in Hollywood,2019,United States,"Period Drama, Showbiz Drama, Comedy, Drama",Quentin Tarantino,161,7.6,84,90.0,392.11
+950,Saw,2004,United States,"Splatter Horror, Horror, Mystery, Thriller",James Wan,103,7.6,46,1.2,104.0
+951,The Others,2001,Spain,"Period Drama, Psychological Horror, Psychological Thriller, Supernatural Horror, Suspense Mystery, Horror, Mystery, Thriller",Alejandro Amenábar,101,7.6,74,17.0,210.0
+952,John Wick: Chapter 4,2023,United States,"Action Epic, Gun Fu, One-Person Army Action, Action, Crime, Thriller",Chad Stahelski,169,7.6,78,100.0,440.18
+953,The Fifth Element,1997,France,"Sci-Fi Epic, Space Sci-Fi, Action, Adventure, Sci-Fi",Luc Besson,126,7.6,52,75.21,263.92
+954,What We Do in the Shadows,2014,New Zealand,"Dark Comedy, Mockumentary, Satire, Supernatural Horror, Vampire Horror, Comedy, Horror","Jemaine Clement, Taika Waititi",86,7.6,76,1.6,7.45
+955,The Birds,1963,United States,"Drama, Horror, Mystery, Romance",Alfred Hitchcock,119,7.6,90,2.5,0.05
+956,Deadpool 2,2018,United States,"Dark Comedy, Gun Fu, Raunchy Comedy, Superhero, Time Travel, Action, Adventure, Comedy, Sci-Fi",David Leitch,119,7.6,66,110.0,785.9
+957,The Whale,2022,United States,"Epic, Psychological Drama, Tragedy, Drama",Darren Aronofsky,117,7.6,60,10.0,57.62
+958,Office Space,1999,United States,"Satire, Comedy",Mike Judge,89,7.6,68,10.0,10.83
+959,300,2006,United States,"Action Epic, Sword & Sandal, Action, Drama",Zack Snyder,117,7.6,52,65.0,456.08
+960,Aftersun,2022,United Kingdom,"Coming-of-Age, Teen Drama, Drama",Charlotte Wells,102,7.6,95,,8.6
+961,After Hours,1985,United States,"Dark Comedy, Screwball Comedy, Comedy, Crime, Drama, Thriller",Martin Scorsese,97,7.6,89,4.5,10.63
+962,All of Us Strangers,2023,United Kingdom,"Drama, Romance",Andrew Haigh,105,7.6,90,,20.23
+963,The Butterfly Effect,2004,United States,"Time Travel, Tragedy, Drama, Sci-Fi, Thriller","Eric Bress, J. Mackye Gruber",113,7.6,30,13.0,96.82
+964,Hell or High Water,2016,United States,"Contemporary Western, Heist, Police Procedural, Tragedy, Crime, Drama, Thriller, Western",David Mackenzie,102,7.6,88,12.0,38.0
+965,Stardust,2007,United Kingdom,"Fairy Tale, Fantasy Epic, Feel-Good Romance, Quest, Romantic Epic, Swashbuckler, Adventure, Family, Fantasy, Romance",Matthew Vaughn,127,7.6,66,70.0,137.52
+966,Watchmen,2009,United States,"Dystopian Sci-Fi, Superhero, Action, Drama, Mystery, Sci-Fi",Zack Snyder,162,7.6,56,130.0,185.38
+967,Kung Fu Panda,2008,United States,"Animal Adventure, Computer Animation, Kung Fu, Martial Arts, Wuxia, Action, Adventure, Animation, Comedy, Family","Mark Osborne, John Stevenson",92,7.6,74,130.0,632.09
+968,Moneyball,2011,United States,"Baseball, Docudrama, Biography, Drama, Sport",Bennett Miller,133,7.6,87,50.0,110.21
+969,The Machinist,2004,Spain,"Psychological Thriller, Drama, Thriller",Brad Anderson,101,7.6,61,5.0,8.2
+970,The Last of the Mohicans,1992,United States,"Action Epic, Epic, Romantic Epic, Tragedy, War Epic, Action, Adventure, Drama, Romance, War",Michael Mann,112,7.6,76,40.0,75.51
+971,Star Wars: Episode III - Revenge of the Sith,2005,United States,"Action Epic, Adventure Epic, Dark Fantasy, Fantasy Epic, Sci-Fi Epic, Space Sci-Fi, Tragedy, Action, Adventure, Fantasy",George Lucas,140,7.6,68,113.0,850.04
+972,Dark Waters,2019,United States,"Docudrama, Legal Drama, Biography, Drama, History, Mystery",Todd Haynes,126,7.6,73,,23.11
+973,RoboCop,1987,United States,"Cyberpunk, One-Person Army Action, Superhero, Action, Crime, Sci-Fi, Thriller",Paul Verhoeven,102,7.6,70,13.0,53.43
+974,Minority Report,2002,United States,"Conspiracy Thriller, Cyber Thriller, Cyberpunk, Dystopian Sci-Fi, Psychological Thriller, Suspense Mystery, Action, Crime, Mystery, Sci-Fi",Steven Spielberg,145,7.6,80,102.0,358.37
+975,3:10 to Yuma,2007,United States,"Action, Crime, Drama, Western",James Mangold,122,7.6,76,55.0,70.02
+976,My Cousin Vinny,1992,United States,"Legal Drama, Comedy, Crime",Jonathan Lynn,120,7.6,68,11.0,64.09
+977,End of Watch,2012,United States,"Cop Drama, Action, Crime, Drama, Thriller",David Ayer,109,7.6,68,7.0,55.08
+978,Toy Story 4,2019,United States,"Computer Animation, Road Trip, Supernatural Fantasy, Urban Adventure, Adventure, Animation, Comedy, Family, Fantasy",Josh Cooley,100,7.6,84,200.0,1073.84
+979,The Thin Red Line,1998,United States,"Historical Epic, War Epic, Drama, History, War",Terrence Malick,170,7.6,78,52.0,98.13
+980,True Grit,2010,United States,"Period Drama, Drama, Western","Ethan Coen, Joel Coen",110,7.6,80,38.0,252.28
+981,Midnight in Paris,2011,Spain,"Romantic Comedy, Comedy, Fantasy, Romance",Woody Allen,94,7.6,81,17.0,151.67
+982,The Boondock Saints,1999,United States,"Dark Comedy, Action, Crime, Thriller",Troy Duffy,108,7.6,44,6.0,0.03
+983,The Raid,2011,Indonesia,"Gun Fu, Martial Arts, Action, Crime, Thriller",Gareth Evans,101,7.6,73,1.1,9.15
+984,Gone Baby Gone,2007,United States,"Police Procedural, Psychological Thriller, Whodunnit, Crime, Drama, Mystery, Thriller",Ben Affleck,114,7.6,72,19.0,34.61
+985,The Invisible Man,1933,United States,"Body Horror, Psychological Horror, Slasher Horror, Supernatural Horror, Horror, Sci-Fi",James Whale,71,7.6,87,0.33,0.03
+986,The Mitchells vs the Machines,2021,United States,"Artificial Intelligence, Computer Animation, Quirky Comedy, Road Trip, Adventure, Animation, Comedy, Family, Sci-Fi","Michael Rianda, Jeff Rowe",114,7.6,81,38.0,
+987,Ponyo,2008,Japan,"Anime, Iyashikei, Sea Adventure, Adventure, Animation, Comedy, Family, Fantasy",Hayao Miyazaki,101,7.6,86,34.0,205.91
+988,21 Grams,2003,United States,"Tragedy, Crime, Drama, Thriller",Alejandro G. Iñárritu,124,7.6,70,20.0,60.47
+989,Rushmore,1998,United States,"Coming-of-Age, Quirky Comedy, Teen Comedy, Comedy, Drama, Romance",Wes Anderson,93,7.6,87,9.0,17.2
+990,Belle de Jour,1967,France,"Steamy Romance, Drama, Romance",Luis Buñuel,100,7.6,,,4.16
+991,The Last King of Scotland,2006,United Kingdom,"Historical Epic, Political Drama, Biography, Drama, History, Thriller",Kevin Macdonald,123,7.6,74,6.0,48.62
+992,The Bridges of Madison County,1995,United States,"Drama, Romance",Clint Eastwood,135,7.6,69,24.0,182.02
+993,Run Lola Run,1998,Germany,"Dark Comedy, Action, Crime, Thriller",Tom Tykwer,81,7.6,79,3.5,7.66
+994,50/50,2011,United States,"Medical Drama, Comedy, Drama, Romance",Jonathan Levine,100,7.6,72,8.0,41.1
+995,Rebel Without a Cause,1955,United States,"Coming-of-Age, Teen Drama, Drama",Nicholas Ray,111,7.6,89,1.5,0.22
+996,Barton Fink,1991,United Kingdom,"Dark Comedy, Farce, Period Drama, Psychological Drama, Psychological Thriller, Satire, Showbiz Drama, Comedy, Drama, Thriller","Joel Coen, Ethan Coen",116,7.6,69,9.0,6.15
+997,Short Cuts,1993,United States,"Dark Comedy, Satire, Tragedy, Comedy, Drama",Robert Altman,188,7.6,81,12.0,6.11
+998,Frost/Nixon,2008,United Kingdom,"Docudrama, Political Drama, Biography, Drama, History",Ron Howard,122,7.6,80,25.0,27.43
+999,The Little Prince,2015,France,"Coming-of-Age, Computer Animation, Fantasy Epic, Globetrotting Adventure, Stop Motion Animation, Adventure, Animation, Drama, Family, Fantasy",Mark Osborne,108,7.6,70,81.2,97.57
+1000,Control,2007,United Kingdom,"Biography, Drama, Music",Anton Corbijn,122,7.6,78,4.5,8.16
