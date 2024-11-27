@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import re
 from tqdm import tqdm
 
+
 def convert_to_minutes(runtime_str):
     hours = int(re.search(r'(\d+)h', runtime_str).group(1)) * 60 if re.search(r'(\d+)h', runtime_str) else 0
     minutes = int(re.search(r'(\d+)m', runtime_str).group(1)) if re.search(r'(\d+)m', runtime_str) else 0
@@ -16,6 +17,7 @@ def convert_to_millions(amount_str):
     return round(float(cleaned_text) / 1_000_000, 2)
 
 
+# Scrapes detailed movie information for movies listed in the input JSON file.
 def scrape_movie_info(input_file, output_file):
     # Load movie links
     with open(input_file, "r", encoding="utf-8") as file:
@@ -25,12 +27,14 @@ def scrape_movie_info(input_file, output_file):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36'
     }
 
+    # Open CSV file for saving movie details
     with open(output_file, mode='w', newline='', encoding='utf-8-sig') as csv_file:
         csv_writer = csv.writer(csv_file)
         csv_writer.writerow(
             ["Rank", "Title", "Year", "Country", "Genre", "Director", "Runtime (Minutes)", "Rating", "Metascore",
              "Budget (Millions)", "Revenue (Millions)"])
 
+        # Iterate over movies and extract data
         for sample_movie in tqdm(movie_links, desc="Processing movies", unit="movie"):
             try:
                 response = requests.get(sample_movie["Link"], headers=headers)
@@ -89,4 +93,3 @@ def scrape_movie_info(input_file, output_file):
 
             except Exception as e:
                 print(f"Error extracting data for {sample_movie['Rank']}. {sample_movie['Title']}: {e}")
-
