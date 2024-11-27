@@ -4,6 +4,12 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from tqdm import tqdm
+import os
+
+
+output_folder = "data"
+os.makedirs(output_folder, exist_ok=True)
+input_file_path = os.path.join(output_folder, "imdb_movie_links_for_scraping.json")
 
 
 def convert_to_minutes(runtime_str):
@@ -17,14 +23,16 @@ def convert_to_millions(amount_str):
     return round(float(cleaned_text) / 1_000_000, 2)
 
 
-with open("imdb_movie_links_for_scraping.json", "r", encoding="utf-8") as file:
+with open(input_file_path, "r", encoding="utf-8") as file:
     movie_links = json.load(file)
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36'
 }
 
-with open("imdb_movie_data.csv", mode='w', newline='', encoding='utf-8-sig') as csv_file:
+output_file_path = os.path.join(output_folder, "imdb_movie_data.csv")
+
+with open(output_file_path, mode='w', newline='', encoding='utf-8-sig') as csv_file:
     csv_writer = csv.writer(csv_file)
     csv_writer.writerow(
         ["Rank", "Title", "Year", "Country", "Genre", "Director", "Runtime (Minutes)", "Rating", "Metascore",
@@ -89,4 +97,4 @@ with open("imdb_movie_data.csv", mode='w', newline='', encoding='utf-8-sig') as 
         except Exception as e:
             print(f"Error extracting data for {sample_movie['Rank']}. {sample_movie['Title']}: {e}")
 
-    print("Data extraction completed.")
+    print(f"Data extraction completed. CSV saved to {output_file_path}")
